@@ -1,0 +1,5258 @@
+[
+  {
+    "placeID": 135110,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135110,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135110,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135110,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135110,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 135109,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135107,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135107,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135107,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135107,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135107,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 135106,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135106,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135106,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135105,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135104,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135104,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135104,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135103,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135103,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135103,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135102,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135102,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135102,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135102,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 135101,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135100,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135099,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135099,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135099,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135098,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135098,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135098,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135098,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 135097,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135097,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135097,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135097,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 135094,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135093,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135093,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 135092,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135091,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135091,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135091,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135090,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135089,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135089,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135089,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135089,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 135088,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135086,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135086,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135086,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135085,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135084,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135084,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135084,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135082,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135081,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135081,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135081,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135080,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135080,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135080,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135080,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135079,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135079,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135078,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135078,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135078,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135077,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135076,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135076,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135076,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135076,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135075,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135074,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135074,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135074,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135073,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135073,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135073,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135072,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135072,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135072,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135072,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135071,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135071,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135071,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135071,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135070,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135069,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135068,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135068,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135068,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135067,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135067,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135067,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135066,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135066,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135066,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135065,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135065,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135065,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135065,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135064,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135064,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135064,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135063,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135062,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135061,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135061,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135061,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135061,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135060,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135059,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135058,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135058,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135058,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135057,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135057,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135057,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135057,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135056,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135055,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135055,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135055,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135055,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135054,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135054,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135054,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135053,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135053,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135053,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135053,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135052,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135052,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135052,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135051,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135050,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135050,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135050,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135050,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135049,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135048,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135048,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135048,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135048,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135047,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135047,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135047,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135046,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135046,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135046,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135045,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135045,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135045,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135045,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135044,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135043,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135042,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135041,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135040,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135040,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135040,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135039,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135038,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135037,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135037,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135037,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135036,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135035,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135035,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135035,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135035,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135034,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135034,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135034,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135034,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135033,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135033,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135033,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135033,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135032,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135032,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135032,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135031,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135031,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135031,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135030,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135029,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135029,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135029,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135029,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135028,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135028,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135028,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135028,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135027,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135027,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135027,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135027,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135025,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135025,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135025,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135025,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135024,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135024,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135024,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135024,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135023,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135022,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135021,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135018,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135018,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135018,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135018,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 135017,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135016,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135015,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135014,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135013,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135012,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135011,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135010,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135009,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135008,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135008,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135008,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135008,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135007,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135007,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135007,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135006,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135006,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135006,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135006,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135005,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135004,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135004,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135004,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135003,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135002,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135002,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135002,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135001,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 135001,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 135001,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 135001,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 135000,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134998,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134996,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134995,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134994,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134994,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134994,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134993,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134993,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134993,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134993,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 134992,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134992,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134992,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134991,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134991,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134991,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134991,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 134990,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134989,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134989,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134989,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134989,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 134988,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134988,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134988,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 134987,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134985,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134985,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134985,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 134984,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134984,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134984,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134983,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134983,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134983,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134982,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134981,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134980,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134978,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134978,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134978,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134977,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134977,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134977,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134976,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134976,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134976,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 134976,
+    "Rpayment": "checks"
+  },
+  {
+    "placeID": 134975,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134975,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134975,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134975,
+    "Rpayment": "Discover"
+  },
+  {
+    "placeID": 134974,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134974,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134974,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134973,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134973,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134973,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134972,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134972,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134972,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134971,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134971,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134971,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134970,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 134970,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 134970,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 134970,
+    "Rpayment": "checks"
+  },
+  {
+    "placeID": 133049,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133048,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133047,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133043,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133043,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 133043,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 133043,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 133038,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133037,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133036,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133035,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133034,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133033,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133033,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 133033,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 133033,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 133032,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133031,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133030,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133030,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 133030,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 133029,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133028,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133027,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133027,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 133027,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 133026,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133026,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 133020,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133014,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133009,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133008,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 133007,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132996,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132995,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132994,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132993,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132986,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132985,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132984,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132983,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132982,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132981,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132980,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132979,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132978,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132977,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132976,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132975,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132974,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132973,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132972,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132971,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132970,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132969,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132968,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132967,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132966,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132965,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132964,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132963,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132962,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132961,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132960,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132959,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132958,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132958,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132958,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132958,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132958,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132957,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132957,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132957,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132957,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132956,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132956,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132956,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132956,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132955,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132955,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132955,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132955,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132955,
+    "Rpayment": "Carte_Blanche"
+  },
+  {
+    "placeID": 132954,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132954,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132954,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132954,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132953,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132953,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132953,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132953,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132951,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132950,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132948,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132947,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132947,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132946,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132945,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132944,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132942,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132941,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132940,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132939,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132938,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132937,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132936,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132935,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132934,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132933,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132932,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132931,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132931,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132931,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132931,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132931,
+    "Rpayment": "checks"
+  },
+  {
+    "placeID": 132930,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132929,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132928,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132927,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132927,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132927,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132927,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132927,
+    "Rpayment": "checks"
+  },
+  {
+    "placeID": 132926,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132925,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132924,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132923,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132922,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132921,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132920,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132919,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132918,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132917,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132917,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132917,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132917,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132917,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132916,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132915,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132914,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132913,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132912,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132911,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132910,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132909,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132908,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132907,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132904,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132903,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132902,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132901,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132900,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132900,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132900,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132900,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132900,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132899,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132897,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132896,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132895,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132894,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132893,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132892,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132892,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132891,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132890,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132889,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132888,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132888,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132888,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132887,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132887,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132887,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132887,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132886,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132886,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132886,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132886,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132885,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132880,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132880,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132880,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132880,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132880,
+    "Rpayment": "Carte_Blanche"
+  },
+  {
+    "placeID": 132875,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132875,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132875,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132875,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132875,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132873,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132873,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132873,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132873,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132873,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132872,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132872,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132871,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132870,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132869,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132868,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132867,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132866,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132865,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132864,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132863,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132863,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132863,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132863,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132863,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132862,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132862,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132862,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132862,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132862,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132861,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132861,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132861,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132861,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132861,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132860,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132860,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132860,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132860,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132860,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132859,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132859,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132859,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132859,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132859,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132858,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132857,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132857,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132857,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132856,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132855,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132854,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132854,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132854,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132853,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132852,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132851,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132850,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132849,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132848,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132847,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132846,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132845,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132843,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132842,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132841,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132840,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132837,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132836,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132835,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132835,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132835,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132835,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132835,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132834,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132829,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132828,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132827,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132826,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132826,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132826,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132826,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132825,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132824,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132824,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132821,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132820,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132820,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132819,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132817,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132815,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132811,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132811,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132811,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132810,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132809,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132808,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132808,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132808,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132807,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132807,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132807,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132806,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132806,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132806,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132806,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132805,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132804,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132804,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132804,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132804,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132803,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132802,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132802,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132802,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132801,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132801,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132799,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132799,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132799,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132798,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132797,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132797,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132796,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132796,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132796,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132796,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132795,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132795,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132795,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132794,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132793,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132793,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132793,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132793,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132793,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132792,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132792,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132792,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132792,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132791,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132791,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132791,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132791,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132791,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132790,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132790,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132790,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132790,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132790,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132789,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132789,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132789,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132789,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132788,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132788,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132788,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132787,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132787,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132787,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132787,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132786,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132786,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132786,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132786,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132785,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132785,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132785,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132784,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132784,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132784,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132784,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132784,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132783,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132783,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132783,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132783,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132783,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132782,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132782,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132782,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132781,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132781,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132780,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132779,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132779,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132778,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132777,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132777,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132777,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132777,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132776,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132776,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132776,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132775,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132774,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132774,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132774,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132773,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132772,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132771,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132771,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132770,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132769,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132768,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132768,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132767,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132767,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132767,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132766,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132765,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132764,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132763,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132762,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132761,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132761,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132761,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132760,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132760,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132759,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132758,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132757,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132756,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132756,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132756,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132756,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132756,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132755,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132755,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132755,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132755,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132754,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132753,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132752,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132751,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132751,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132750,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132750,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132749,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132748,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132747,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132747,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132747,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132747,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132747,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132746,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132745,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132744,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132743,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132742,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132741,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132740,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132739,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132738,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132737,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132736,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132736,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132736,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132736,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132735,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132735,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132735,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132735,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132734,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132734,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132734,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132734,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132733,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132733,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132733,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132733,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132732,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132731,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132730,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132728,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132727,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132726,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132726,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132726,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132726,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132725,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132724,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132724,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132724,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132724,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132724,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132723,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132723,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132722,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132721,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132720,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132720,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132720,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132720,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132720,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132719,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132718,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132717,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132716,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132715,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132714,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132713,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132712,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132711,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132710,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132709,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132708,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132707,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132706,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132706,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132705,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132704,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132703,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132702,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132701,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132700,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132700,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132700,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132700,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132699,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132699,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132699,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132698,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132697,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132697,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132697,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132697,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132696,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132695,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132694,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132693,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132693,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132693,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132693,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132692,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132692,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132692,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132692,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132692,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132691,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132691,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132691,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132691,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132690,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132689,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132689,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132689,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132689,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132689,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132688,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132688,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132688,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132688,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132688,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132687,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132687,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132687,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132687,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132687,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132686,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132686,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132686,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132686,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132685,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132685,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132685,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132685,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132685,
+    "Rpayment": "checks"
+  },
+  {
+    "placeID": 132684,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132684,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132683,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132683,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132683,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132682,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132682,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132682,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132682,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132681,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132680,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132679,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132678,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132677,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132676,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132675,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132674,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132671,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132667,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132658,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132655,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132653,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132650,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132648,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132645,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132642,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132640,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132638,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132636,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132635,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132631,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132629,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132629,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132629,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132628,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132626,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132626,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132625,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132625,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132625,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132625,
+    "Rpayment": "checks"
+  },
+  {
+    "placeID": 132624,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132624,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132624,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132623,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132623,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132622,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132621,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132620,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132619,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132619,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132619,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132619,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132619,
+    "Rpayment": "checks"
+  },
+  {
+    "placeID": 132618,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132617,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132617,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132617,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132617,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132616,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132615,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132614,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132613,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132612,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132612,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132611,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132610,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132609,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132608,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132607,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132606,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132606,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132605,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132604,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132603,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132602,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132601,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132600,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132599,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132598,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132598,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132597,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132596,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132595,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132594,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132593,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132592,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132592,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132592,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132592,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132592,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132592,
+    "Rpayment": "checks"
+  },
+  {
+    "placeID": 132592,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132591,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132591,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132591,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132590,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132589,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132589,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132589,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132588,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132587,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132586,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132585,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132585,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132585,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132584,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132583,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132583,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132583,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132583,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132582,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132582,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132581,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132580,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132578,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132577,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132577,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132577,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132576,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132576,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132576,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132575,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132575,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132575,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132575,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132574,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132574,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132574,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132573,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132573,
+    "Rpayment": "VISA"
+  },
+  {
+    "placeID": 132572,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132560,
+    "Rpayment": "cash"
+  },
+  {
+    "placeID": 132545,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132545,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132545,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132545,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132544,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132544,
+    "Rpayment": "Japan_Credit_Bureau"
+  },
+  {
+    "placeID": 132544,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132544,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132537,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132535,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132535,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132535,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132535,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132533,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132533,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132531,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132531,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132530,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132530,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132530,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132530,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132527,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132527,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132527,
+    "Rpayment": "gift_certificates"
+  },
+  {
+    "placeID": 132527,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132527,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132521,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132521,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132521,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132521,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132518,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132509,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132509,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132509,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132509,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132493,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132493,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132493,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132488,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132483,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132483,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132482,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132482,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132482,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132458,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132449,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132446,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132446,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132446,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132445,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132444,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132444,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132444,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132444,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132443,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132443,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132443,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132442,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132442,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132442,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132439,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132439,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132438,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132438,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132437,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132437,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132436,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132436,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132436,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132436,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132432,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132432,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132419,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132417,
+    "Rpayment": "Discover"
+  },
+  {
+    "placeID": 132414,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132414,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132414,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132414,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132413,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132413,
+    "Rpayment": "Discover"
+  },
+  {
+    "placeID": 132413,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132413,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132413,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132409,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132409,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132409,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132409,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132407,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132399,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132399,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132399,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132396,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132396,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132396,
+    "Rpayment": "gift_certificates"
+  },
+  {
+    "placeID": 132396,
+    "Rpayment": "Japan_Credit_Bureau"
+  },
+  {
+    "placeID": 132396,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132396,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132392,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132392,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132392,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132392,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132387,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132387,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132367,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132367,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132367,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132367,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132364,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132364,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132361,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132361,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132361,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132355,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132355,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132355,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132353,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132353,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132348,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132348,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132347,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132347,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132347,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132347,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132346,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132344,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132343,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132343,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132343,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132343,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132342,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132342,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132341,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132336,
+    "Rpayment": "Discover"
+  },
+  {
+    "placeID": 132333,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132333,
+    "Rpayment": "Discover"
+  },
+  {
+    "placeID": 132333,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132319,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132319,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132319,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132319,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132318,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132318,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132302,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132302,
+    "Rpayment": "Discover"
+  },
+  {
+    "placeID": 132302,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132302,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132302,
+    "Rpayment": "Carte_Blanche"
+  },
+  {
+    "placeID": 132302,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132297,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132297,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132296,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132296,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132296,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132293,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132293,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132293,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132289,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132289,
+    "Rpayment": "Discover"
+  },
+  {
+    "placeID": 132289,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132289,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132289,
+    "Rpayment": "gift_certificates"
+  },
+  {
+    "placeID": 132289,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132289,
+    "Rpayment": "Carte_Blanche"
+  },
+  {
+    "placeID": 132289,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132275,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132246,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132244,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132244,
+    "Rpayment": "checks"
+  },
+  {
+    "placeID": 132244,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132244,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132244,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132244,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132243,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132243,
+    "Rpayment": "Discover"
+  },
+  {
+    "placeID": 132243,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132243,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132243,
+    "Rpayment": "Carte_Blanche"
+  },
+  {
+    "placeID": 132243,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132237,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132237,
+    "Rpayment": "Discover"
+  },
+  {
+    "placeID": 132237,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132233,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132233,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132232,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132232,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132231,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132231,
+    "Rpayment": "Discover"
+  },
+  {
+    "placeID": 132231,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132231,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132231,
+    "Rpayment": "gift_certificates"
+  },
+  {
+    "placeID": 132231,
+    "Rpayment": "Carte_Blanche"
+  },
+  {
+    "placeID": 132231,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132230,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132230,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132230,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132229,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132228,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132221,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132220,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132215,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132215,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132213,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132213,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132213,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132213,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132212,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132212,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132212,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132212,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132211,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132211,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132211,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132211,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132207,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132207,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132206,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132206,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132206,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132204,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132204,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132204,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132201,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132201,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132187,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132187,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132187,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132187,
+    "Rpayment": "Japan_Credit_Bureau"
+  },
+  {
+    "placeID": 132187,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132187,
+    "Rpayment": "Carte_Blanche"
+  },
+  {
+    "placeID": 132187,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132184,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132184,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132182,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132182,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132182,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132177,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132177,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132166,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132165,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132165,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132165,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132164,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132164,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132164,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132163,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132161,
+    "Rpayment": "gift_certificates"
+  },
+  {
+    "placeID": 132161,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132160,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132160,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132159,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132159,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132159,
+    "Rpayment": "Japan_Credit_Bureau"
+  },
+  {
+    "placeID": 132159,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132159,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132155,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132130,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132116,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132115,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132111,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132111,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132111,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132111,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132111,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132109,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132109,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132109,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132107,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132107,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132107,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132107,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132106,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132106,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132106,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132106,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132103,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132031,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132031,
+    "Rpayment": "checks"
+  },
+  {
+    "placeID": 132031,
+    "Rpayment": "Discover"
+  },
+  {
+    "placeID": 132031,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132031,
+    "Rpayment": "gift_certificates"
+  },
+  {
+    "placeID": 132031,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132030,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132030,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132030,
+    "Rpayment": "gift_certificates"
+  },
+  {
+    "placeID": 132030,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132030,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132026,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132026,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132026,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132026,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132024,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132024,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132024,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132024,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132023,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132023,
+    "Rpayment": "Japan_Credit_Bureau"
+  },
+  {
+    "placeID": 132023,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132023,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132019,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132019,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132019,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132019,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132012,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132012,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132012,
+    "Rpayment": "bank_debit_cards"
+  },
+  {
+    "placeID": 132012,
+    "Rpayment": "Diners_Club"
+  },
+  {
+    "placeID": 132002,
+    "Rpayment": "MasterCard-Eurocard"
+  },
+  {
+    "placeID": 132002,
+    "Rpayment": "Visa"
+  },
+  {
+    "placeID": 132002,
+    "Rpayment": "American_Express"
+  },
+  {
+    "placeID": 132002,
+    "Rpayment": "Diners_Club"
+  }
+]

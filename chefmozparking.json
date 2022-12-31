@@ -1,0 +1,2810 @@
+[
+  {
+    "placeID": 135111,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 135110,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135109,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135108,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135107,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135106,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135105,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135104,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135103,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 135102,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 135101,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 135100,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135099,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 135098,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 135097,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135094,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 135093,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135092,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135091,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 135090,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 135089,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135088,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 135086,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135085,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 135084,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135082,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135081,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135080,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135079,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135078,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135077,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135076,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135075,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135074,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 135073,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135072,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135071,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135070,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135069,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135068,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135067,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135066,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135065,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135064,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135063,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135062,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135061,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135060,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135059,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135058,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 135057,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135056,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135055,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135054,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135053,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135052,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135051,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135050,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135049,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135048,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135047,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135046,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135045,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135044,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135043,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135042,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135041,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135040,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135039,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135038,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135037,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135036,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135035,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135034,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135033,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135032,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 135031,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135030,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135029,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135028,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135027,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135026,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135025,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135024,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135023,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135022,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135021,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 135020,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135019,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135018,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135017,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135016,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135015,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135014,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135013,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135012,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135011,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135010,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135009,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135008,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135007,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135006,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135005,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135004,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135003,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135002,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 135001,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 135000,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 134999,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 134998,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 134997,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 134996,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 134995,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 134994,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 134993,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 134992,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 134991,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 134990,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 134989,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 134988,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 134987,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 134986,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 134985,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 134984,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 134983,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 134982,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 134981,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 134980,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 134979,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 134978,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 134977,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 134976,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 134975,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 134974,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 134973,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 134972,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 134971,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 134970,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 133049,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 133048,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 133047,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 133043,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 133042,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133041,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133040,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133039,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133038,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133037,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133036,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133035,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 133034,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133033,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133032,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133031,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133030,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133029,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 133028,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133027,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133026,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133025,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133024,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133023,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133022,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133021,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133020,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133019,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133018,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133017,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133016,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133015,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133014,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 133013,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133012,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133011,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133010,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 133009,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 133008,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 133007,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133006,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133005,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133004,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133003,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133002,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133001,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 133000,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132999,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132998,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132997,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132996,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132995,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132994,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132993,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132992,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132986,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132985,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132984,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132983,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132982,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132981,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132980,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132979,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132978,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132977,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132976,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132975,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132974,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132973,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132972,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132971,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132970,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132969,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132968,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132967,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132966,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132965,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132964,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132963,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132962,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132961,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132960,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132959,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132958,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132957,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132956,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132955,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132954,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132953,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132951,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132950,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132948,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132947,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132946,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132945,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132944,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132943,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132942,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132941,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132940,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132939,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132938,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132937,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132936,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132935,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132934,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132933,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132932,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132931,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132930,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132929,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132928,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132927,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132926,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132925,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132924,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132923,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132922,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132921,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132920,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132919,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132918,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132917,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132916,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132915,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132914,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132913,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132912,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132911,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132910,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132909,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132908,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132907,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132906,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132905,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132904,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132903,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132902,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132901,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132900,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132899,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132898,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132897,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132896,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132895,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132894,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132893,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132892,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132891,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132890,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132889,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132888,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132887,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 132886,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132885,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132884,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132883,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132882,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132881,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132880,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132879,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132878,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132877,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132876,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132875,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 132874,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132873,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132872,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132871,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132870,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132869,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132868,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132867,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132866,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132865,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132864,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132863,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132862,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 132861,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132860,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132859,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132858,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132857,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132856,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132855,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132854,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132853,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132852,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132851,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132850,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132849,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132848,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132847,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132846,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132845,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132844,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132843,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132842,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132841,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132840,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132839,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132838,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132837,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132836,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132835,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132834,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132833,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132832,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132831,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132830,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132829,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132828,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132827,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132826,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132825,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132824,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132823,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132822,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132821,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132820,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132819,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132818,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132817,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132816,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132815,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132813,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132812,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132811,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132810,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132809,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132808,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132807,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132806,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132805,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132804,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132803,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132802,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132801,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132799,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132798,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132797,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132796,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132795,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132794,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132793,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 132792,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 132791,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 132790,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 132789,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 132788,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132787,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132786,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 132785,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132784,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 132783,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 132782,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132781,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132780,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132779,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132778,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132777,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132776,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132775,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132774,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132773,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132772,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132771,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132770,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132769,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132768,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132767,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132766,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132765,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132764,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132763,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132762,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132761,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132760,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132759,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132758,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132757,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132756,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132755,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132754,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132753,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132752,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132751,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132750,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132749,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132748,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132747,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132746,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132745,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132744,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132743,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132742,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132741,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132740,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132739,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132738,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132737,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132736,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132735,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132734,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132733,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132732,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132731,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132730,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132729,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132728,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132727,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132726,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132725,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132724,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132723,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132722,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132721,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132720,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132719,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132718,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132717,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132716,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132715,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132714,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132713,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132712,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132711,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132710,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132709,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132708,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132707,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132706,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132705,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132704,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132703,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132702,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132701,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132700,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132699,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132698,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132697,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132696,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132695,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132694,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132693,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132692,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132691,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132690,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132689,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132688,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132687,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132686,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132685,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132684,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132683,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132682,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132681,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132680,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132679,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132678,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132677,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132676,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132675,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132674,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132673,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132672,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132671,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132670,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132669,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132668,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132667,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132666,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132665,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132664,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132663,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132662,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132661,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132660,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132659,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132658,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132657,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132656,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132655,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132654,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132653,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132652,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132651,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132650,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132649,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132648,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132647,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132646,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132645,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132644,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132643,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132642,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132641,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132640,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132639,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132638,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132637,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132636,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132635,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 132634,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132633,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132632,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132631,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132630,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132629,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132628,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132626,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132625,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132624,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132623,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132622,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132621,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132620,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132619,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132618,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132617,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132616,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132615,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132614,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132613,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132612,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132611,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132610,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132609,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132608,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132607,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132606,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132605,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132604,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132603,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132602,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132601,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132600,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132599,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132598,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132597,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132596,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132595,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132594,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132593,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132592,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132591,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132590,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132589,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132588,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132587,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132586,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132585,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132584,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132583,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132582,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132581,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132580,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132579,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132578,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132577,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132576,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132575,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132574,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132573,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132572,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132571,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132570,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132569,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132568,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132567,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132566,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132565,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132564,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132563,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132562,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132561,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132560,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132557,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132557,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132545,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132535,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132531,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132531,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132530,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132530,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132527,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132521,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132521,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132491,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132491,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132487,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132484,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132483,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132483,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132482,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132481,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132481,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132479,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132478,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132478,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132468,
+    "parking_lot": "none"
+  },
+  {
+    "placeID": 132449,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132449,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132443,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132442,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132439,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132437,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132436,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132409,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132409,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132399,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132399,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132396,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132396,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132392,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132377,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132355,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132355,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132333,
+    "parking_lot": "validated parking"
+  },
+  {
+    "placeID": 132326,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132326,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132302,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132297,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132297,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132296,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132292,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132292,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132289,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 132289,
+    "parking_lot": "validated parking"
+  },
+  {
+    "placeID": 132281,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132281,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132243,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 132243,
+    "parking_lot": "validated parking"
+  },
+  {
+    "placeID": 132243,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132237,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132231,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132220,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132207,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132206,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132204,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132204,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132184,
+    "parking_lot": "valet parking"
+  },
+  {
+    "placeID": 132184,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132182,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132177,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132164,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132161,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132160,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132159,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132157,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132155,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132155,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132111,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132111,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132107,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132031,
+    "parking_lot": "yes"
+  },
+  {
+    "placeID": 132031,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132030,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132026,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132024,
+    "parking_lot": "street"
+  },
+  {
+    "placeID": 132023,
+    "parking_lot": "fee"
+  },
+  {
+    "placeID": 132023,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132012,
+    "parking_lot": "public"
+  },
+  {
+    "placeID": 132012,
+    "parking_lot": "street"
+  }
+]
