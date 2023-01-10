@@ -24,5 +24,5 @@ class User(Base):
     Upayment = Column(dialects.postgresql.ARRAY(String))
     latitude = Column(Float)
     longitude = Column(Float)
-    weight = Column(String)
-    height = Column(String)
+    weight = Column(FLoat)
+    height = Column(Float)
