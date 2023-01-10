@@ -22,7 +22,7 @@ with open('test.csv', 'r') as infile:
       combined[(id, hours)] += ',' + days
 
 # Convert the combined rows to a list of dictionaries
-data = [{'id': int(id), 'hours': hours, 'days': days.split(',')} for (id, hours), days in combined.items()]
+data = [{'placeID': int(id), 'hours': hours, 'days': days.split(',')} for (id, hours), days in combined.items()]
 
 # Open the output file
 with open('chefmozhours4_final.json', 'w') as outfile:
