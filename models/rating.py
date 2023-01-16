@@ -5,9 +5,9 @@ from database import Base
 
 class Rating(Base):
     __tablename__ = 'ratings'
-    userID = Column(Integer, ForeignKey(
+    userID = Column(String, ForeignKey(
         'users.userID', ondelete='CASCADE'), primary_key=True)
-    placeID = Column(Integer, ForeignKey(
+    placeID = Column(String, ForeignKey(
         'restaurents.placeID', ondelete='CASCADE'), primary_key=True)
     rating = Column(Integer)
     food_rating = Column(Integer)

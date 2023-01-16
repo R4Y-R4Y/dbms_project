@@ -5,7 +5,7 @@ from database import Base
 
 class User(Base):
     __tablename__ = 'users'
-    userID = Column(Integer, primary_key=True)
+    userID = Column(String, primary_key=True)
     smoker = Column(Boolean)
     drink_level = Column(String)
     dress_preference = Column(String)
@@ -24,5 +24,5 @@ class User(Base):
     Upayment = Column(dialects.postgresql.ARRAY(String))
     latitude = Column(Float)
     longitude = Column(Float)
-    weight = Column(FLoat)
+    weight = Column(Float)
     height = Column(Float)

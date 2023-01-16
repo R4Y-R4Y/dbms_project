@@ -5,7 +5,7 @@ from database import Base
 
 class Restaurent(Base):
     __tablename__ = 'restaurents'
-    placeID = Column(Integer, primary_key=True)
+    placeID = Column(String, primary_key=True)
     Rpayment = Column(dialects.postgresql.ARRAY(String))
     Rcuisine = Column(dialects.postgresql.ARRAY(String))
     hours = Column(dialects.postgresql.ARRAY(String))
