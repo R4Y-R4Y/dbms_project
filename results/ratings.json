@@ -1,20 +1,6 @@
 [
   {
     "userID": "U1077",
-    "placeID": 135085,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1077",
-    "placeID": 135038,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1077",
     "placeID": 132825,
     "rating": 2,
     "food_rating": 2,
@@ -43,24 +29,10 @@
   },
   {
     "userID": "U1068",
-    "placeID": 132663,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1068",
     "placeID": 132732,
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
-  },
-  {
-    "userID": "U1068",
-    "placeID": 132630,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
   },
   {
     "userID": "U1067",
@@ -82,13 +54,6 @@
     "rating": 1,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1067",
-    "placeID": 132630,
-    "rating": 1,
-    "food_rating": 0,
-    "service_rating": 1
   },
   {
     "userID": "U1067",
@@ -120,13 +85,6 @@
   },
   {
     "userID": "U1103",
-    "placeID": 132630,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1103",
     "placeID": 132613,
     "rating": 2,
     "food_rating": 2,
@@ -148,24 +106,10 @@
   },
   {
     "userID": "U1103",
-    "placeID": 132663,
-    "rating": 1,
-    "food_rating": 0,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1103",
     "placeID": 132733,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1107",
-    "placeID": 132660,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
   },
   {
     "userID": "U1107",
@@ -189,13 +133,6 @@
     "service_rating": 2
   },
   {
-    "userID": "U1044",
-    "placeID": 132583,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
     "userID": "U1070",
     "placeID": 132608,
     "rating": 2,
@@ -215,34 +152,6 @@
     "rating": 1,
     "food_rating": 1,
     "service_rating": 0
-  },
-  {
-    "userID": "U1031",
-    "placeID": 132663,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1031",
-    "placeID": 132665,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1031",
-    "placeID": 132668,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1082",
-    "placeID": 132630,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
   },
   {
     "userID": "U1023",
@@ -288,24 +197,10 @@
   },
   {
     "userID": "U1082",
-    "placeID": 132663,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1082",
     "placeID": 132560,
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
-  },
-  {
-    "userID": "U1060",
-    "placeID": 132564,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1060",
@@ -407,24 +302,10 @@
   },
   {
     "userID": "U1021",
-    "placeID": 132668,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1021",
     "placeID": 132715,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 1
-  },
-  {
-    "userID": "U1044",
-    "placeID": 134987,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
   },
   {
     "userID": "U1083",
@@ -477,13 +358,6 @@
   },
   {
     "userID": "U1108",
-    "placeID": 135085,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1108",
     "placeID": 135032,
     "rating": 2,
     "food_rating": 1,
@@ -519,91 +393,7 @@
   },
   {
     "userID": "U1012",
-    "placeID": 135001,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1012",
     "placeID": 134983,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1012",
-    "placeID": 134996,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1093",
-    "placeID": 135019,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1093",
-    "placeID": 134996,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1093",
-    "placeID": 135001,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1093",
-    "placeID": 134976,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1093",
-    "placeID": 134999,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1030",
-    "placeID": 135018,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1093",
-    "placeID": 135013,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1030",
-    "placeID": 134986,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1012",
-    "placeID": 134986,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1012",
-    "placeID": 135018,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
@@ -624,28 +414,7 @@
   },
   {
     "userID": "U1030",
-    "placeID": 135016,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1093",
-    "placeID": 135011,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1030",
     "placeID": 132767,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1030",
-    "placeID": 135019,
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
@@ -658,34 +427,6 @@
     "service_rating": 0
   },
   {
-    "userID": "U1030",
-    "placeID": 134996,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1066",
-    "placeID": 135011,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1066",
-    "placeID": 134999,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1127",
-    "placeID": 134975,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
     "userID": "U1127",
     "placeID": 135021,
     "rating": 2,
@@ -693,37 +434,9 @@
     "service_rating": 1
   },
   {
-    "userID": "U1127",
-    "placeID": 134987,
-    "rating": 2,
-    "food_rating": 0,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1127",
-    "placeID": 134996,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
     "userID": "U1017",
     "placeID": 132768,
     "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1066",
-    "placeID": 135019,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1017",
-    "placeID": 134975,
-    "rating": 2,
     "food_rating": 1,
     "service_rating": 1
   },
@@ -750,45 +463,10 @@
   },
   {
     "userID": "U1100",
-    "placeID": 134996,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1066",
-    "placeID": 135013,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1100",
-    "placeID": 135000,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1100",
-    "placeID": 135001,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1100",
     "placeID": 132768,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1100",
-    "placeID": 134976,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
   },
   {
     "userID": "U1133",
@@ -796,13 +474,6 @@
     "rating": 1,
     "food_rating": 1,
     "service_rating": 1
-  },
-  {
-    "userID": "U1133",
-    "placeID": 134986,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1133",
@@ -826,48 +497,6 @@
     "service_rating": 2
   },
   {
-    "userID": "U1133",
-    "placeID": 135001,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1133",
-    "placeID": 134975,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1133",
-    "placeID": 134992,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1133",
-    "placeID": 135019,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1118",
-    "placeID": 134987,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1072",
-    "placeID": 135016,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
     "userID": "U1072",
     "placeID": 132773,
     "rating": 2,
@@ -883,31 +512,10 @@
   },
   {
     "userID": "U1026",
-    "placeID": 132561,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1026",
     "placeID": 132706,
     "rating": 0,
     "food_rating": 2,
     "service_rating": 0
-  },
-  {
-    "userID": "U1026",
-    "placeID": 132654,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1026",
-    "placeID": 132665,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1023",
@@ -925,20 +533,6 @@
   },
   {
     "userID": "U1080",
-    "placeID": 132668,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1080",
-    "placeID": 132660,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1080",
     "placeID": 132733,
     "rating": 1,
     "food_rating": 1,
@@ -947,13 +541,6 @@
   {
     "userID": "U1080",
     "placeID": 132608,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1063",
-    "placeID": 132660,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
@@ -988,13 +575,6 @@
   },
   {
     "userID": "U1080",
-    "placeID": 132564,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1080",
     "placeID": 132715,
     "rating": 1,
     "food_rating": 1,
@@ -1015,34 +595,6 @@
     "service_rating": 0
   },
   {
-    "userID": "U1074",
-    "placeID": 135011,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1074",
-    "placeID": 134987,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1074",
-    "placeID": 134976,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1117",
-    "placeID": 135018,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
     "userID": "U1117",
     "placeID": 132766,
     "rating": 0,
@@ -1058,31 +610,10 @@
   },
   {
     "userID": "U1117",
-    "placeID": 135016,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1117",
     "placeID": 132773,
     "rating": 1,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1117",
-    "placeID": 135000,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1118",
-    "placeID": 132583,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
   },
   {
     "userID": "U1118",
@@ -1106,20 +637,6 @@
     "service_rating": 0
   },
   {
-    "userID": "U1118",
-    "placeID": 135001,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1118",
-    "placeID": 134992,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
     "userID": "U1020",
     "placeID": 135088,
     "rating": 1,
@@ -1132,13 +649,6 @@
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1020",
-    "placeID": 134996,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
   },
   {
     "userID": "U1020",
@@ -1167,13 +677,6 @@
     "rating": 1,
     "food_rating": 2,
     "service_rating": 1
-  },
-  {
-    "userID": "U1055",
-    "placeID": 135051,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1055",
@@ -1261,13 +764,6 @@
   },
   {
     "userID": "U1055",
-    "placeID": 135047,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1055",
     "placeID": 132754,
     "rating": 2,
     "food_rating": 2,
@@ -1282,13 +778,6 @@
   },
   {
     "userID": "U1053",
-    "placeID": 135076,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1053",
     "placeID": 135032,
     "rating": 2,
     "food_rating": 2,
@@ -1300,20 +789,6 @@
     "rating": 1,
     "food_rating": 2,
     "service_rating": 0
-  },
-  {
-    "userID": "U1053",
-    "placeID": 135063,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1035",
-    "placeID": 135018,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
   },
   {
     "userID": "U1035",
@@ -1344,29 +819,8 @@
     "service_rating": 1
   },
   {
-    "userID": "U1035",
-    "placeID": 132583,
-    "rating": 1,
-    "food_rating": 0,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1053",
-    "placeID": 135081,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
     "userID": "U1053",
     "placeID": 135025,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1053",
-    "placeID": 135038,
     "rating": 2,
     "food_rating": 1,
     "service_rating": 2
@@ -1377,20 +831,6 @@
     "rating": 2,
     "food_rating": 2,
     "service_rating": 1
-  },
-  {
-    "userID": "U1053",
-    "placeID": 135062,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1053",
-    "placeID": 135047,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1064",
@@ -1412,20 +852,6 @@
     "rating": 1,
     "food_rating": 1,
     "service_rating": 2
-  },
-  {
-    "userID": "U1081",
-    "placeID": 135076,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1081",
-    "placeID": 135043,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 1
   },
   {
     "userID": "U1064",
@@ -1478,22 +904,8 @@
   },
   {
     "userID": "U1081",
-    "placeID": 135085,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1081",
     "placeID": 135052,
     "rating": 0,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1081",
-    "placeID": 135030,
-    "rating": 1,
     "food_rating": 1,
     "service_rating": 1
   },
@@ -1506,13 +918,6 @@
   },
   {
     "userID": "U1001",
-    "placeID": 132830,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1001",
     "placeID": 132825,
     "rating": 2,
     "food_rating": 2,
@@ -1520,51 +925,9 @@
   },
   {
     "userID": "U1014",
-    "placeID": 135076,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1088",
-    "placeID": 132830,
-    "rating": 0,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1088",
-    "placeID": 135108,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1014",
     "placeID": 135069,
     "rating": 1,
     "food_rating": 0,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1014",
-    "placeID": 135050,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1088",
-    "placeID": 135057,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1014",
-    "placeID": 135081,
-    "rating": 2,
-    "food_rating": 1,
     "service_rating": 1
   },
   {
@@ -1573,41 +936,6 @@
     "rating": 1,
     "food_rating": 0,
     "service_rating": 2
-  },
-  {
-    "userID": "U1014",
-    "placeID": 135070,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1088",
-    "placeID": 135041,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1088",
-    "placeID": 135069,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1088",
-    "placeID": 135082,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1014",
-    "placeID": 135043,
-    "rating": 1,
-    "food_rating": 0,
-    "service_rating": 0
   },
   {
     "userID": "U1014",
@@ -1617,113 +945,8 @@
     "service_rating": 0
   },
   {
-    "userID": "U1088",
-    "placeID": 135071,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1088",
-    "placeID": 135054,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1088",
-    "placeID": 135070,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1014",
-    "placeID": 135066,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1088",
-    "placeID": 135032,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1088",
-    "placeID": 135081,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1088",
-    "placeID": 135051,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1014",
-    "placeID": 132830,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1014",
-    "placeID": 135082,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1056",
-    "placeID": 135066,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1056",
-    "placeID": 135050,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1056",
-    "placeID": 135076,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1056",
-    "placeID": 135081,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1056",
-    "placeID": 135062,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
     "userID": "U1056",
     "placeID": 135027,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1056",
-    "placeID": 135085,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
@@ -1741,27 +964,6 @@
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1056",
-    "placeID": 135051,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1134",
-    "placeID": 135047,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1134",
-    "placeID": 135026,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
   },
   {
     "userID": "U1134",
@@ -1786,24 +988,10 @@
   },
   {
     "userID": "U1134",
-    "placeID": 135065,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1134",
     "placeID": 135046,
     "rating": 2,
     "food_rating": 1,
     "service_rating": 1
-  },
-  {
-    "userID": "U1134",
-    "placeID": 135085,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
   },
   {
     "userID": "U1134",
@@ -1842,31 +1030,10 @@
   },
   {
     "userID": "U1134",
-    "placeID": 135080,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1134",
-    "placeID": 135064,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1134",
     "placeID": 135074,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1106",
-    "placeID": 135041,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
   },
   {
     "userID": "U1126",
@@ -1890,24 +1057,10 @@
     "service_rating": 2
   },
   {
-    "userID": "U1126",
-    "placeID": 132830,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
     "userID": "U1106",
     "placeID": 135028,
     "rating": 2,
     "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1126",
-    "placeID": 135040,
-    "rating": 0,
-    "food_rating": 0,
     "service_rating": 0
   },
   {
@@ -1926,38 +1079,10 @@
   },
   {
     "userID": "U1126",
-    "placeID": 135041,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1126",
-    "placeID": 135038,
-    "rating": 1,
-    "food_rating": 0,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1126",
     "placeID": 135054,
     "rating": 1,
     "food_rating": 2,
     "service_rating": 1
-  },
-  {
-    "userID": "U1126",
-    "placeID": 135108,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1044",
-    "placeID": 134986,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1124",
@@ -1972,13 +1097,6 @@
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1124",
-    "placeID": 135108,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
   },
   {
     "userID": "U1124",
@@ -1996,24 +1114,10 @@
   },
   {
     "userID": "U1124",
-    "placeID": 135070,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1124",
     "placeID": 135069,
     "rating": 1,
     "food_rating": 1,
     "service_rating": 1
-  },
-  {
-    "userID": "U1124",
-    "placeID": 135081,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
   },
   {
     "userID": "U1124",
@@ -2030,74 +1134,11 @@
     "service_rating": 1
   },
   {
-    "userID": "U1124",
-    "placeID": 135050,
-    "rating": 0,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1018",
-    "placeID": 135043,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1125",
-    "placeID": 135043,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1125",
-    "placeID": 135081,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1125",
-    "placeID": 135076,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1018",
-    "placeID": 135082,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1125",
-    "placeID": 135050,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1125",
-    "placeID": 135066,
-    "rating": 1,
-    "food_rating": 0,
-    "service_rating": 1
-  },
-  {
     "userID": "U1125",
     "placeID": 135032,
     "rating": 1,
     "food_rating": 2,
     "service_rating": 1
-  },
-  {
-    "userID": "U1119",
-    "placeID": 134986,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1119",
@@ -2107,31 +1148,10 @@
     "service_rating": 0
   },
   {
-    "userID": "U1119",
-    "placeID": 135001,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
     "userID": "U1125",
     "placeID": 135042,
     "rating": 1,
     "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1119",
-    "placeID": 132583,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1125",
-    "placeID": 135063,
-    "rating": 1,
-    "food_rating": 2,
     "service_rating": 1
   },
   {
@@ -2149,27 +1169,6 @@
     "service_rating": 2
   },
   {
-    "userID": "U1125",
-    "placeID": 135038,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1125",
-    "placeID": 135062,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1018",
-    "placeID": 135081,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
     "userID": "U1018",
     "placeID": 135057,
     "rating": 1,
@@ -2178,23 +1177,9 @@
   },
   {
     "userID": "U1018",
-    "placeID": 135066,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1018",
     "placeID": 135032,
     "rating": 1,
     "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1018",
-    "placeID": 135062,
-    "rating": 0,
-    "food_rating": 0,
     "service_rating": 1
   },
   {
@@ -2212,25 +1197,11 @@
     "service_rating": 1
   },
   {
-    "userID": "U1018",
-    "placeID": 135108,
-    "rating": 1,
-    "food_rating": 0,
-    "service_rating": 1
-  },
-  {
     "userID": "U1076",
     "placeID": 135039,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 1
-  },
-  {
-    "userID": "U1076",
-    "placeID": 135038,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1076",
@@ -2247,25 +1218,11 @@
     "service_rating": 2
   },
   {
-    "userID": "U1022",
-    "placeID": 135040,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
     "userID": "U1076",
     "placeID": 135073,
     "rating": 2,
     "food_rating": 1,
     "service_rating": 1
-  },
-  {
-    "userID": "U1022",
-    "placeID": 135033,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 2
   },
   {
     "userID": "U1022",
@@ -2304,63 +1261,14 @@
   },
   {
     "userID": "U1022",
-    "placeID": 135038,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1022",
-    "placeID": 135081,
-    "rating": 0,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1022",
-    "placeID": 135045,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1022",
-    "placeID": 135051,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1022",
     "placeID": 135073,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
   },
   {
-    "userID": "U1022",
-    "placeID": 135062,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1022",
-    "placeID": 135063,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
     "userID": "U1094",
     "placeID": 135054,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1094",
-    "placeID": 135082,
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
@@ -2381,27 +1289,6 @@
   },
   {
     "userID": "U1094",
-    "placeID": 132830,
-    "rating": 0,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1094",
-    "placeID": 135070,
-    "rating": 0,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1094",
-    "placeID": 135108,
-    "rating": 0,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1094",
     "placeID": 135069,
     "rating": 0,
     "food_rating": 1,
@@ -2409,31 +1296,10 @@
   },
   {
     "userID": "U1116",
-    "placeID": 135047,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1116",
     "placeID": 135060,
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
-  },
-  {
-    "userID": "U1116",
-    "placeID": 135038,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1116",
-    "placeID": 135085,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1116",
@@ -2472,13 +1338,6 @@
   },
   {
     "userID": "U1116",
-    "placeID": 135030,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1116",
     "placeID": 132834,
     "rating": 2,
     "food_rating": 2,
@@ -2494,27 +1353,6 @@
   {
     "userID": "U1105",
     "placeID": 135069,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1105",
-    "placeID": 132830,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1105",
-    "placeID": 135040,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1105",
-    "placeID": 135033,
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
@@ -2541,41 +1379,6 @@
     "service_rating": 0
   },
   {
-    "userID": "U1075",
-    "placeID": 135081,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1075",
-    "placeID": 135066,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1075",
-    "placeID": 135050,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1007",
-    "placeID": 135108,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1075",
-    "placeID": 135076,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 0
-  },
-  {
     "userID": "U1007",
     "placeID": 135057,
     "rating": 1,
@@ -2605,49 +1408,14 @@
   },
   {
     "userID": "U1075",
-    "placeID": 132830,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1075",
-    "placeID": 135062,
-    "rating": 1,
-    "food_rating": 0,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1075",
     "placeID": 135039,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 0
   },
   {
-    "userID": "U1075",
-    "placeID": 135051,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1075",
-    "placeID": 135041,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
     "userID": "U1115",
     "placeID": 135057,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1115",
-    "placeID": 135082,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
@@ -2661,30 +1429,9 @@
   },
   {
     "userID": "U1115",
-    "placeID": 135108,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1115",
     "placeID": 135069,
     "rating": 1,
     "food_rating": 0,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1115",
-    "placeID": 132830,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1115",
-    "placeID": 135070,
-    "rating": 1,
-    "food_rating": 1,
     "service_rating": 1
   },
   {
@@ -2695,144 +1442,11 @@
     "service_rating": 2
   },
   {
-    "userID": "U1072",
-    "placeID": 135000,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1024",
-    "placeID": 132834,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1024",
-    "placeID": 135106,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1024",
-    "placeID": 135042,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1024",
-    "placeID": 132825,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1024",
-    "placeID": 135060,
-    "rating": 1,
-    "food_rating": 0,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1024",
-    "placeID": 135032,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1024",
-    "placeID": 135039,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1024",
-    "placeID": 135045,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1024",
-    "placeID": 135027,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1024",
-    "placeID": 135073,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1024",
-    "placeID": 135051,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1024",
-    "placeID": 135041,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1024",
-    "placeID": 135038,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1024",
-    "placeID": 135028,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1024",
-    "placeID": 135030,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1132",
-    "placeID": 135038,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
     "userID": "U1132",
     "placeID": 132825,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1132",
-    "placeID": 135085,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1132",
-    "placeID": 135062,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
   },
   {
     "userID": "U1132",
@@ -2864,13 +1478,6 @@
   },
   {
     "userID": "U1132",
-    "placeID": 135051,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1132",
     "placeID": 135027,
     "rating": 2,
     "food_rating": 1,
@@ -2878,52 +1485,10 @@
   },
   {
     "userID": "U1005",
-    "placeID": 135050,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1005",
-    "placeID": 135076,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1005",
-    "placeID": 132830,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1005",
-    "placeID": 135066,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1005",
-    "placeID": 135041,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1005",
     "placeID": 135057,
     "rating": 1,
     "food_rating": 2,
     "service_rating": 1
-  },
-  {
-    "userID": "U1005",
-    "placeID": 135043,
-    "rating": 0,
-    "food_rating": 2,
-    "service_rating": 0
   },
   {
     "userID": "U1005",
@@ -2941,13 +1506,6 @@
   },
   {
     "userID": "U1120",
-    "placeID": 135085,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1120",
     "placeID": 132845,
     "rating": 1,
     "food_rating": 0,
@@ -2959,20 +1517,6 @@
     "rating": 1,
     "food_rating": 1,
     "service_rating": 1
-  },
-  {
-    "userID": "U1120",
-    "placeID": 135045,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1120",
-    "placeID": 135038,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
   },
   {
     "userID": "U1004",
@@ -3001,20 +1545,6 @@
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1004",
-    "placeID": 135062,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1120",
-    "placeID": 135026,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
   },
   {
     "userID": "U1004",
@@ -3038,13 +1568,6 @@
     "service_rating": 1
   },
   {
-    "userID": "U1120",
-    "placeID": 132847,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
     "userID": "U1037",
     "placeID": 135054,
     "rating": 2,
@@ -3053,66 +1576,10 @@
   },
   {
     "userID": "U1037",
-    "placeID": 135082,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1037",
-    "placeID": 135070,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1037",
     "placeID": 132845,
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
-  },
-  {
-    "userID": "U1037",
-    "placeID": 135108,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1037",
-    "placeID": 132847,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1037",
-    "placeID": 132830,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1035",
-    "placeID": 135000,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1035",
-    "placeID": 134996,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1035",
-    "placeID": 134986,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1052",
@@ -3130,13 +1597,6 @@
   },
   {
     "userID": "U1036",
-    "placeID": 135064,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1036",
     "placeID": 135079,
     "rating": 2,
     "food_rating": 2,
@@ -3145,13 +1605,6 @@
   {
     "userID": "U1036",
     "placeID": 135042,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1036",
-    "placeID": 135085,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
@@ -3187,20 +1640,6 @@
   {
     "userID": "U1036",
     "placeID": 132754,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1036",
-    "placeID": 135065,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1036",
-    "placeID": 135045,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
@@ -3245,13 +1684,6 @@
     "placeID": 132862,
     "rating": 2,
     "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1071",
-    "placeID": 135063,
-    "rating": 2,
-    "food_rating": 1,
     "service_rating": 2
   },
   {
@@ -3325,13 +1757,6 @@
     "service_rating": 2
   },
   {
-    "userID": "U1071",
-    "placeID": 135030,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
     "userID": "U1114",
     "placeID": 135053,
     "rating": 0,
@@ -3361,20 +1786,6 @@
   },
   {
     "userID": "U1084",
-    "placeID": 135030,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1084",
-    "placeID": 135026,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1084",
     "placeID": 135035,
     "rating": 2,
     "food_rating": 2,
@@ -3382,21 +1793,7 @@
   },
   {
     "userID": "U1084",
-    "placeID": 135045,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1084",
     "placeID": 132861,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1084",
-    "placeID": 135085,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
@@ -3416,57 +1813,8 @@
     "service_rating": 0
   },
   {
-    "userID": "U1049",
-    "placeID": 135041,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1019",
-    "placeID": 132830,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1019",
-    "placeID": 135076,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1019",
-    "placeID": 135038,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
     "userID": "U1019",
     "placeID": 132856,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1069",
-    "placeID": 135070,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1069",
-    "placeID": 135082,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1069",
-    "placeID": 135108,
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
@@ -3507,30 +1855,9 @@
     "service_rating": 0
   },
   {
-    "userID": "U1069",
-    "placeID": 132847,
-    "rating": 0,
-    "food_rating": 2,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1113",
-    "placeID": 135038,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 0
-  },
-  {
     "userID": "U1113",
     "placeID": 135057,
     "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1113",
-    "placeID": 135085,
-    "rating": 1,
     "food_rating": 2,
     "service_rating": 1
   },
@@ -3582,34 +1909,6 @@
     "rating": 1,
     "food_rating": 2,
     "service_rating": 1
-  },
-  {
-    "userID": "U1104",
-    "placeID": 135085,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1104",
-    "placeID": 135030,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1104",
-    "placeID": 135062,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1106",
-    "placeID": 135047,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
   },
   {
     "userID": "U1106",
@@ -3675,13 +1974,6 @@
     "service_rating": 1
   },
   {
-    "userID": "U1104",
-    "placeID": 135047,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
     "userID": "U1106",
     "placeID": 135042,
     "rating": 2,
@@ -3704,34 +1996,6 @@
   },
   {
     "userID": "U1106",
-    "placeID": 135066,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1106",
-    "placeID": 135085,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1104",
-    "placeID": 135033,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1106",
-    "placeID": 135062,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1106",
     "placeID": 132862,
     "rating": 2,
     "food_rating": 2,
@@ -3739,21 +2003,7 @@
   },
   {
     "userID": "U1106",
-    "placeID": 135030,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1106",
     "placeID": 135079,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1106",
-    "placeID": 135064,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
@@ -3771,27 +2021,6 @@
     "rating": 1,
     "food_rating": 1,
     "service_rating": 1
-  },
-  {
-    "userID": "U1104",
-    "placeID": 135041,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1079",
-    "placeID": 134986,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1079",
-    "placeID": 134976,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
   },
   {
     "userID": "U1079",
@@ -3816,22 +2045,8 @@
   },
   {
     "userID": "U1045",
-    "placeID": 135064,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1045",
     "placeID": 132856,
     "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1045",
-    "placeID": 135085,
-    "rating": 2,
     "food_rating": 2,
     "service_rating": 2
   },
@@ -3862,20 +2077,6 @@
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1045",
-    "placeID": 135051,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1045",
-    "placeID": 135041,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
   },
   {
     "userID": "U1009",
@@ -3921,13 +2122,6 @@
   },
   {
     "userID": "U1009",
-    "placeID": 135038,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1009",
     "placeID": 132825,
     "rating": 1,
     "food_rating": 1,
@@ -3938,13 +2132,6 @@
     "placeID": 135052,
     "rating": 2,
     "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1009",
-    "placeID": 135063,
-    "rating": 0,
-    "food_rating": 0,
     "service_rating": 0
   },
   {
@@ -3991,31 +2178,10 @@
   },
   {
     "userID": "U1016",
-    "placeID": 135045,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1016",
     "placeID": 135060,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1016",
-    "placeID": 135066,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1016",
-    "placeID": 135085,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 0
   },
   {
     "userID": "U1016",
@@ -4032,36 +2198,8 @@
     "service_rating": 2
   },
   {
-    "userID": "U1016",
-    "placeID": 135051,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1016",
-    "placeID": 135062,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
     "userID": "U1047",
     "placeID": 132875,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1047",
-    "placeID": 132877,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1047",
-    "placeID": 132884,
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
@@ -4144,20 +2282,6 @@
     "service_rating": 1
   },
   {
-    "userID": "U1007",
-    "placeID": 135085,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1095",
-    "placeID": 135064,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
     "userID": "U1095",
     "placeID": 135035,
     "rating": 2,
@@ -4200,25 +2324,11 @@
     "service_rating": 1
   },
   {
-    "userID": "U1007",
-    "placeID": 135038,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
     "userID": "U1078",
     "placeID": 132885,
     "rating": 1,
     "food_rating": 1,
     "service_rating": 1
-  },
-  {
-    "userID": "U1099",
-    "placeID": 135076,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
   },
   {
     "userID": "U1099",
@@ -4243,13 +2353,6 @@
   },
   {
     "userID": "U1099",
-    "placeID": 135043,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1099",
     "placeID": 132885,
     "rating": 0,
     "food_rating": 0,
@@ -4268,13 +2371,6 @@
     "rating": 1,
     "food_rating": 1,
     "service_rating": 2
-  },
-  {
-    "userID": "U1008",
-    "placeID": 135108,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
   },
   {
     "userID": "U1008",
@@ -4298,23 +2394,9 @@
     "service_rating": 1
   },
   {
-    "userID": "U1099",
-    "placeID": 135066,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
     "userID": "U1008",
     "placeID": 135069,
     "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1099",
-    "placeID": 135038,
-    "rating": 0,
     "food_rating": 1,
     "service_rating": 1
   },
@@ -4324,13 +2406,6 @@
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1099",
-    "placeID": 135045,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
   },
   {
     "userID": "U1008",
@@ -4361,27 +2436,6 @@
     "service_rating": 1
   },
   {
-    "userID": "U1040",
-    "placeID": 134999,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1040",
-    "placeID": 135013,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1040",
-    "placeID": 135019,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
     "userID": "U1121",
     "placeID": 135021,
     "rating": 0,
@@ -4403,36 +2457,8 @@
     "service_rating": 2
   },
   {
-    "userID": "U1110",
-    "placeID": 135013,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1110",
-    "placeID": 134999,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1121",
-    "placeID": 135019,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
     "userID": "U1121",
     "placeID": 132767,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1121",
-    "placeID": 134999,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
@@ -4452,13 +2478,6 @@
     "service_rating": 0
   },
   {
-    "userID": "U1042",
-    "placeID": 134996,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
     "userID": "U1013",
     "placeID": 135079,
     "rating": 1,
@@ -4471,27 +2490,6 @@
     "rating": 2,
     "food_rating": 1,
     "service_rating": 1
-  },
-  {
-    "userID": "U1013",
-    "placeID": 135085,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1013",
-    "placeID": 135076,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1054",
-    "placeID": 135062,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 0
   },
   {
     "userID": "U1054",
@@ -4523,13 +2521,6 @@
   },
   {
     "userID": "U1054",
-    "placeID": 135051,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1054",
     "placeID": 135025,
     "rating": 2,
     "food_rating": 2,
@@ -4537,44 +2528,9 @@
   },
   {
     "userID": "U1054",
-    "placeID": 135041,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1054",
-    "placeID": 135038,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1054",
     "placeID": 135032,
     "rating": 1,
     "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1054",
-    "placeID": 135045,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1042",
-    "placeID": 134986,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1042",
-    "placeID": 134992,
-    "rating": 1,
-    "food_rating": 2,
     "service_rating": 1
   },
   {
@@ -4606,13 +2562,6 @@
     "service_rating": 2
   },
   {
-    "userID": "U1111",
-    "placeID": 132877,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
     "userID": "U1037",
     "placeID": 135071,
     "rating": 1,
@@ -4622,13 +2571,6 @@
   {
     "userID": "U1111",
     "placeID": 132851,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1111",
-    "placeID": 135108,
     "rating": 2,
     "food_rating": 1,
     "service_rating": 0
@@ -4660,20 +2602,6 @@
     "rating": 2,
     "food_rating": 2,
     "service_rating": 1
-  },
-  {
-    "userID": "U1111",
-    "placeID": 132847,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1111",
-    "placeID": 135082,
-    "rating": 1,
-    "food_rating": 0,
-    "service_rating": 0
   },
   {
     "userID": "U1037",
@@ -4723,13 +2651,6 @@
     "rating": 1,
     "food_rating": 1,
     "service_rating": 1
-  },
-  {
-    "userID": "U1015",
-    "placeID": 132877,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 2
   },
   {
     "userID": "U1128",
@@ -4789,43 +2710,8 @@
   },
   {
     "userID": "U1101",
-    "placeID": 135038,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1101",
-    "placeID": 135051,
-    "rating": 2,
-    "food_rating": 0,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1101",
     "placeID": 135052,
     "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1101",
-    "placeID": 135041,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1001",
-    "placeID": 135085,
-    "rating": 0,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1001",
-    "placeID": 135040,
-    "rating": 1,
     "food_rating": 1,
     "service_rating": 1
   },
@@ -4838,38 +2724,10 @@
   },
   {
     "userID": "U1001",
-    "placeID": 135045,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1001",
-    "placeID": 135033,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1001",
     "placeID": 135025,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1001",
-    "placeID": 135051,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1135",
-    "placeID": 135085,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
   },
   {
     "userID": "U1135",
@@ -4881,13 +2739,6 @@
   {
     "userID": "U1135",
     "placeID": 135052,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1135",
-    "placeID": 135041,
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
@@ -4915,13 +2766,6 @@
   },
   {
     "userID": "U1032",
-    "placeID": 135085,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1032",
     "placeID": 135042,
     "rating": 0,
     "food_rating": 1,
@@ -4946,13 +2790,6 @@
     "placeID": 132834,
     "rating": 0,
     "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1032",
-    "placeID": 135038,
-    "rating": 1,
-    "food_rating": 1,
     "service_rating": 0
   },
   {
@@ -4985,21 +2822,7 @@
   },
   {
     "userID": "U1135",
-    "placeID": 135063,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1135",
     "placeID": 132856,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1135",
-    "placeID": 135045,
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
@@ -5041,13 +2864,6 @@
   },
   {
     "userID": "U1048",
-    "placeID": 135026,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1048",
     "placeID": 135034,
     "rating": 2,
     "food_rating": 2,
@@ -5058,13 +2874,6 @@
     "placeID": 135048,
     "rating": 0,
     "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1048",
-    "placeID": 135065,
-    "rating": 2,
-    "food_rating": 2,
     "service_rating": 0
   },
   {
@@ -5080,13 +2889,6 @@
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1062",
-    "placeID": 135085,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
   },
   {
     "userID": "U1062",
@@ -5110,13 +2912,6 @@
     "service_rating": 0
   },
   {
-    "userID": "U1092",
-    "placeID": 135085,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
     "userID": "U1062",
     "placeID": 135052,
     "rating": 0,
@@ -5131,30 +2926,9 @@
     "service_rating": 0
   },
   {
-    "userID": "U1062",
-    "placeID": 135062,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
     "userID": "U1092",
     "placeID": 132572,
     "rating": 1,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1062",
-    "placeID": 135038,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1062",
-    "placeID": 135045,
-    "rating": 0,
     "food_rating": 0,
     "service_rating": 0
   },
@@ -5180,13 +2954,6 @@
     "service_rating": 1
   },
   {
-    "userID": "U1051",
-    "placeID": 134996,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
     "userID": "U1013",
     "placeID": 132875,
     "rating": 2,
@@ -5195,38 +2962,10 @@
   },
   {
     "userID": "U1085",
-    "placeID": 135043,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1085",
     "placeID": 132885,
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
-  },
-  {
-    "userID": "U1085",
-    "placeID": 135050,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1085",
-    "placeID": 135076,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1085",
-    "placeID": 135081,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1109",
@@ -5293,13 +3032,6 @@
   },
   {
     "userID": "U1109",
-    "placeID": 135063,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1109",
     "placeID": 135042,
     "rating": 2,
     "food_rating": 2,
@@ -5314,28 +3046,7 @@
   },
   {
     "userID": "U1109",
-    "placeID": 135085,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1109",
-    "placeID": 135038,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1109",
     "placeID": 132872,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1078",
-    "placeID": 135081,
     "rating": 1,
     "food_rating": 1,
     "service_rating": 1
@@ -5352,13 +3063,6 @@
     "placeID": 135106,
     "rating": 2,
     "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1078",
-    "placeID": 135041,
-    "rating": 2,
-    "food_rating": 1,
     "service_rating": 2
   },
   {
@@ -5411,97 +3115,6 @@
     "service_rating": 1
   },
   {
-    "userID": "U1046",
-    "placeID": 135026,
-    "rating": 1,
-    "food_rating": 0,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1122",
-    "placeID": 135066,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1122",
-    "placeID": 135065,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1122",
-    "placeID": 132872,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1122",
-    "placeID": 135058,
-    "rating": 2,
-    "food_rating": 0,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1122",
-    "placeID": 132834,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1122",
-    "placeID": 132754,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1122",
-    "placeID": 135079,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1122",
-    "placeID": 135038,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1122",
-    "placeID": 135085,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1122",
-    "placeID": 135030,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1122",
-    "placeID": 135064,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1122",
-    "placeID": 135053,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
     "userID": "U1138",
     "placeID": 132921,
     "rating": 2,
@@ -5531,13 +3144,6 @@
   },
   {
     "userID": "U1098",
-    "placeID": 135085,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1098",
     "placeID": 132825,
     "rating": 1,
     "food_rating": 1,
@@ -5554,13 +3160,6 @@
     "userID": "U1098",
     "placeID": 135032,
     "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1098",
-    "placeID": 135038,
-    "rating": 1,
     "food_rating": 1,
     "service_rating": 1
   },
@@ -5594,13 +3193,6 @@
   },
   {
     "userID": "U1034",
-    "placeID": 132884,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1034",
     "placeID": 135055,
     "rating": 0,
     "food_rating": 0,
@@ -5615,13 +3207,6 @@
   },
   {
     "userID": "U1033",
-    "placeID": 135065,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1033",
     "placeID": 135028,
     "rating": 2,
     "food_rating": 1,
@@ -5629,24 +3214,10 @@
   },
   {
     "userID": "U1033",
-    "placeID": 135085,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1033",
     "placeID": 135046,
     "rating": 2,
     "food_rating": 1,
     "service_rating": 1
-  },
-  {
-    "userID": "U1033",
-    "placeID": 135045,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
   },
   {
     "userID": "U1033",
@@ -5677,29 +3248,8 @@
     "service_rating": 0
   },
   {
-    "userID": "U1033",
-    "placeID": 135038,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1033",
-    "placeID": 135030,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
     "userID": "U1089",
     "placeID": 135058,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1089",
-    "placeID": 135064,
     "rating": 1,
     "food_rating": 1,
     "service_rating": 1
@@ -5717,13 +3267,6 @@
     "rating": 1,
     "food_rating": 1,
     "service_rating": 1
-  },
-  {
-    "userID": "U1003",
-    "placeID": 135064,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
   },
   {
     "userID": "U1089",
@@ -5754,13 +3297,6 @@
     "service_rating": 2
   },
   {
-    "userID": "U1089",
-    "placeID": 135026,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
     "userID": "U1003",
     "placeID": 132862,
     "rating": 1,
@@ -5771,20 +3307,6 @@
     "userID": "U1089",
     "placeID": 132872,
     "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1089",
-    "placeID": 135085,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1003",
-    "placeID": 135041,
-    "rating": 0,
     "food_rating": 1,
     "service_rating": 1
   },
@@ -5815,13 +3337,6 @@
     "rating": 1,
     "food_rating": 1,
     "service_rating": 1
-  },
-  {
-    "userID": "U1089",
-    "placeID": 135038,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
   },
   {
     "userID": "U1003",
@@ -5880,13 +3395,6 @@
     "service_rating": 2
   },
   {
-    "userID": "U1003",
-    "placeID": 135080,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
     "userID": "U1091",
     "placeID": 135086,
     "rating": 1,
@@ -5899,20 +3407,6 @@
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1027",
-    "placeID": 135066,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1091",
-    "placeID": 135080,
-    "rating": 0,
-    "food_rating": 1,
-    "service_rating": 1
   },
   {
     "userID": "U1027",
@@ -5934,13 +3428,6 @@
     "rating": 1,
     "food_rating": 1,
     "service_rating": 1
-  },
-  {
-    "userID": "U1091",
-    "placeID": 132884,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1091",
@@ -5986,28 +3473,7 @@
   },
   {
     "userID": "U1027",
-    "placeID": 135085,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1027",
     "placeID": 135042,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1027",
-    "placeID": 135062,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1029",
-    "placeID": 135047,
     "rating": 1,
     "food_rating": 1,
     "service_rating": 1
@@ -6022,13 +3488,6 @@
   {
     "userID": "U1029",
     "placeID": 132937,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1029",
-    "placeID": 135085,
     "rating": 1,
     "food_rating": 1,
     "service_rating": 1
@@ -6077,22 +3536,8 @@
   },
   {
     "userID": "U1086",
-    "placeID": 135063,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1086",
     "placeID": 132921,
     "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1086",
-    "placeID": 135085,
-    "rating": 2,
     "food_rating": 1,
     "service_rating": 1
   },
@@ -6109,20 +3554,6 @@
     "rating": 2,
     "food_rating": 0,
     "service_rating": 1
-  },
-  {
-    "userID": "U1086",
-    "placeID": 135045,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1086",
-    "placeID": 135041,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1086",
@@ -6161,24 +3592,10 @@
   },
   {
     "userID": "U1019",
-    "placeID": 135062,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1019",
     "placeID": 135086,
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
-  },
-  {
-    "userID": "U1137",
-    "placeID": 135085,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
   },
   {
     "userID": "U1137",
@@ -6217,13 +3634,6 @@
   },
   {
     "userID": "U1137",
-    "placeID": 135062,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1137",
     "placeID": 132825,
     "rating": 2,
     "food_rating": 2,
@@ -6252,13 +3662,6 @@
   },
   {
     "userID": "U1137",
-    "placeID": 132884,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1137",
     "placeID": 135049,
     "rating": 2,
     "food_rating": 2,
@@ -6274,13 +3677,6 @@
   {
     "userID": "U1114",
     "placeID": 132825,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1114",
-    "placeID": 135065,
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
@@ -6364,13 +3760,6 @@
   },
   {
     "userID": "U1061",
-    "placeID": 135026,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1061",
     "placeID": 132723,
     "rating": 2,
     "food_rating": 2,
@@ -6386,13 +3775,6 @@
   {
     "userID": "U1061",
     "placeID": 135034,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1061",
-    "placeID": 135041,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
@@ -6441,24 +3823,10 @@
   },
   {
     "userID": "U1046",
-    "placeID": 135065,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1046",
     "placeID": 132921,
     "rating": 2,
     "food_rating": 1,
     "service_rating": 2
-  },
-  {
-    "userID": "U1046",
-    "placeID": 135085,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
   },
   {
     "userID": "U1046",
@@ -6490,13 +3858,6 @@
   },
   {
     "userID": "U1041",
-    "placeID": 135001,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1041",
     "placeID": 134983,
     "rating": 2,
     "food_rating": 2,
@@ -6505,13 +3866,6 @@
   {
     "userID": "U1041",
     "placeID": 135021,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1041",
-    "placeID": 134992,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
@@ -6560,13 +3914,6 @@
   },
   {
     "userID": "U1059",
-    "placeID": 135064,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1059",
     "placeID": 135075,
     "rating": 2,
     "food_rating": 2,
@@ -6601,46 +3948,11 @@
     "service_rating": 2
   },
   {
-    "userID": "U1061",
-    "placeID": 135080,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1090",
-    "placeID": 135062,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
     "userID": "U1090",
     "placeID": 135052,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1112",
-    "placeID": 135047,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1112",
-    "placeID": 135026,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1112",
-    "placeID": 135064,
-    "rating": 0,
-    "food_rating": 1,
-    "service_rating": 1
   },
   {
     "userID": "U1090",
@@ -6650,24 +3962,10 @@
     "service_rating": 2
   },
   {
-    "userID": "U1057",
-    "placeID": 135070,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
     "userID": "U1112",
     "placeID": 132954,
     "rating": 0,
     "food_rating": 0,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1057",
-    "placeID": 135043,
-    "rating": 1,
-    "food_rating": 1,
     "service_rating": 1
   },
   {
@@ -6676,20 +3974,6 @@
     "rating": 1,
     "food_rating": 0,
     "service_rating": 0
-  },
-  {
-    "userID": "U1112",
-    "placeID": 135062,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1090",
-    "placeID": 135051,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
   },
   {
     "userID": "U1090",
@@ -6748,13 +4032,6 @@
     "service_rating": 0
   },
   {
-    "userID": "U1090",
-    "placeID": 135085,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
     "userID": "U1112",
     "placeID": 132572,
     "rating": 0,
@@ -6767,20 +4044,6 @@
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1025",
-    "placeID": 132866,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1057",
-    "placeID": 135080,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
   },
   {
     "userID": "U1112",
@@ -6809,20 +4072,6 @@
     "rating": 2,
     "food_rating": 1,
     "service_rating": 2
-  },
-  {
-    "userID": "U1025",
-    "placeID": 132877,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1057",
-    "placeID": 135064,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
   },
   {
     "userID": "U1057",
@@ -6860,81 +4109,11 @@
     "service_rating": 1
   },
   {
-    "userID": "U1025",
-    "placeID": 132847,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1057",
-    "placeID": 135030,
-    "rating": 1,
-    "food_rating": 0,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1025",
-    "placeID": 135071,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
     "userID": "U1057",
     "placeID": 132834,
     "rating": 1,
     "food_rating": 0,
     "service_rating": 1
-  },
-  {
-    "userID": "U1025",
-    "placeID": 132958,
-    "rating": 1,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1025",
-    "placeID": 132825,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1025",
-    "placeID": 135028,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1025",
-    "placeID": 135047,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1025",
-    "placeID": 132846,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1025",
-    "placeID": 135064,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1025",
-    "placeID": 132830,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1097",
@@ -6965,13 +4144,6 @@
     "service_rating": 1
   },
   {
-    "userID": "U1097",
-    "placeID": 135026,
-    "rating": 1,
-    "food_rating": 0,
-    "service_rating": 1
-  },
-  {
     "userID": "U1059",
     "placeID": 132955,
     "rating": 2,
@@ -6991,20 +4163,6 @@
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
-  },
-  {
-    "userID": "U1059",
-    "placeID": 135085,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1059",
-    "placeID": 135030,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1128",
@@ -7057,13 +4215,6 @@
   },
   {
     "userID": "U1128",
-    "placeID": 135064,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1128",
     "placeID": 132921,
     "rating": 0,
     "food_rating": 0,
@@ -7102,13 +4253,6 @@
     "placeID": 132955,
     "rating": 2,
     "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1097",
-    "placeID": 132884,
-    "rating": 1,
-    "food_rating": 1,
     "service_rating": 1
   },
   {
@@ -7148,13 +4292,6 @@
   },
   {
     "userID": "U1006",
-    "placeID": 135026,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1006",
     "placeID": 132922,
     "rating": 2,
     "food_rating": 1,
@@ -7189,20 +4326,6 @@
     "service_rating": 2
   },
   {
-    "userID": "U1006",
-    "placeID": 135030,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1006",
-    "placeID": 132884,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
     "userID": "U1131",
     "placeID": 135054,
     "rating": 2,
@@ -7225,13 +4348,6 @@
   },
   {
     "userID": "U1131",
-    "placeID": 135082,
-    "rating": 0,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1131",
     "placeID": 132851,
     "rating": 2,
     "food_rating": 2,
@@ -7246,28 +4362,7 @@
   },
   {
     "userID": "U1073",
-    "placeID": 135062,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1073",
     "placeID": 132572,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1073",
-    "placeID": 135064,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1073",
-    "placeID": 135080,
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
@@ -7309,13 +4404,6 @@
   },
   {
     "userID": "U1073",
-    "placeID": 135065,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1073",
     "placeID": 132862,
     "rating": 0,
     "food_rating": 0,
@@ -7344,20 +4432,6 @@
   },
   {
     "userID": "U1049",
-    "placeID": 135051,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1049",
-    "placeID": 135085,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1049",
     "placeID": 132862,
     "rating": 0,
     "food_rating": 0,
@@ -7369,20 +4443,6 @@
     "rating": 0,
     "food_rating": 0,
     "service_rating": 0
-  },
-  {
-    "userID": "U1058",
-    "placeID": 135076,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1058",
-    "placeID": 135043,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
   },
   {
     "userID": "U1058",
@@ -7407,23 +4467,9 @@
   },
   {
     "userID": "U1058",
-    "placeID": 135050,
-    "rating": 1,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1058",
     "placeID": 132872,
     "rating": 2,
     "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1058",
-    "placeID": 135066,
-    "rating": 1,
-    "food_rating": 1,
     "service_rating": 1
   },
   {
@@ -7431,13 +4477,6 @@
     "placeID": 132921,
     "rating": 2,
     "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1002",
-    "placeID": 135062,
-    "rating": 1,
-    "food_rating": 2,
     "service_rating": 1
   },
   {
@@ -7484,24 +4523,10 @@
   },
   {
     "userID": "U1002",
-    "placeID": 135041,
-    "rating": 2,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1002",
     "placeID": 132925,
     "rating": 1,
     "food_rating": 1,
     "service_rating": 2
-  },
-  {
-    "userID": "U1002",
-    "placeID": 135085,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
   },
   {
     "userID": "U1096",
@@ -7516,13 +4541,6 @@
     "rating": 1,
     "food_rating": 2,
     "service_rating": 1
-  },
-  {
-    "userID": "U1096",
-    "placeID": 135064,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
   },
   {
     "userID": "U1096",
@@ -7543,13 +4561,6 @@
     "placeID": 135074,
     "rating": 1,
     "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1096",
-    "placeID": 135026,
-    "rating": 2,
-    "food_rating": 2,
     "service_rating": 2
   },
   {
@@ -7593,13 +4604,6 @@
     "rating": 2,
     "food_rating": 2,
     "service_rating": 2
-  },
-  {
-    "userID": "U1136",
-    "placeID": 135064,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
   },
   {
     "userID": "U1096",
@@ -7666,13 +4670,6 @@
   },
   {
     "userID": "U1058",
-    "placeID": 135062,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1058",
     "placeID": 135055,
     "rating": 2,
     "food_rating": 2,
@@ -7707,27 +4704,6 @@
     "service_rating": 2
   },
   {
-    "userID": "U1010",
-    "placeID": 135064,
-    "rating": 0,
-    "food_rating": 2,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1010",
-    "placeID": 135047,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1010",
-    "placeID": 135065,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
     "userID": "U1102",
     "placeID": 132854,
     "rating": 2,
@@ -7751,20 +4727,6 @@
   {
     "userID": "U1102",
     "placeID": 132870,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1010",
-    "placeID": 135076,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1102",
-    "placeID": 132847,
     "rating": 2,
     "food_rating": 2,
     "service_rating": 0
@@ -7866,27 +4828,6 @@
     "rating": 0,
     "food_rating": 0,
     "service_rating": 1
-  },
-  {
-    "userID": "U1129",
-    "placeID": 132654,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1028",
-    "placeID": 132630,
-    "rating": 2,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1028",
-    "placeID": 132663,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
   },
   {
     "userID": "U1028",
@@ -7911,13 +4852,6 @@
   },
   {
     "userID": "U1087",
-    "placeID": 132660,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1087",
     "placeID": 132732,
     "rating": 2,
     "food_rating": 2,
@@ -7945,13 +4879,6 @@
     "service_rating": 1
   },
   {
-    "userID": "U1087",
-    "placeID": 132663,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
     "userID": "U1065",
     "placeID": 132626,
     "rating": 1,
@@ -7966,86 +4893,9 @@
     "service_rating": 2
   },
   {
-    "userID": "U1129",
-    "placeID": 132561,
-    "rating": 1,
-    "food_rating": 2,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1065",
-    "placeID": 132665,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1129",
-    "placeID": 132665,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1065",
-    "placeID": 132561,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
     "userID": "U1039",
     "placeID": 132626,
     "rating": 2,
-    "food_rating": 2,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1039",
-    "placeID": 132564,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1065",
-    "placeID": 132654,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1039",
-    "placeID": 132665,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 2
-  },
-  {
-    "userID": "U1130",
-    "placeID": 132654,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1130",
-    "placeID": 132561,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1130",
-    "placeID": 132626,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
-  },
-  {
-    "userID": "U1130",
-    "placeID": 132706,
-    "rating": 1,
     "food_rating": 2,
     "service_rating": 1
   },
@@ -8078,22 +4928,8 @@
     "service_rating": 1
   },
   {
-    "userID": "U1011",
-    "placeID": 132564,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
     "userID": "U1043",
     "placeID": 132732,
-    "rating": 1,
-    "food_rating": 1,
-    "service_rating": 1
-  },
-  {
-    "userID": "U1043",
-    "placeID": 132630,
     "rating": 1,
     "food_rating": 1,
     "service_rating": 1
@@ -8118,12 +4954,5 @@
     "rating": 1,
     "food_rating": 1,
     "service_rating": 1
-  },
-  {
-    "userID": "U1068",
-    "placeID": 132660,
-    "rating": 0,
-    "food_rating": 0,
-    "service_rating": 0
   }
 ]
