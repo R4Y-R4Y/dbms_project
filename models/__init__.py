@@ -2,3 +2,9 @@ from database import Base
 from .restaurent import Restaurent
 from .user import User
 from .rating import Rating
+from .restaurant_cuisine import RestaurentCuisine
+from .restaurant_parking import RestaurentParking
+from .restaurant_payment import RestaurentPayment
+from .restaurant_work_hour import RestaurentHours
+from .user_cuisine import UserCuisine
+from .user_payment import UserPayment

@@ -20,8 +20,6 @@ class User(Base):
     activity = Column(String)
     color = Column(String)
     budget = Column(String)
-    Rcuisine = Column(dialects.postgresql.ARRAY(String))
-    Upayment = Column(dialects.postgresql.ARRAY(String))
     latitude = Column(Float)
     longitude = Column(Float)
     weight = Column(Float)
