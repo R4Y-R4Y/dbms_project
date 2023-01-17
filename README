@@ -56,7 +56,7 @@ Rpayment: Nominal, 12 [cash,VISA,MasterCard-Eurocard,American_Express,bank_debit
 Instances: 916
 Attributes: 2
 placeID: Nominal
-Rcuisine: Nominal, 59 [Afghan,African,American,Armenian,Asian,Bagels,Bakery,Bar,Bar_Pub_Brewery,Barbecue,Brazilian,Breakfast-Brunch,Burgers,Cafe-Coffee_Shop,			Cafeteria,California,Caribbean,Chinese,Contemporary,Continental-European,Deli-Sandwiches,Dessert-Ice_Cream,Diner,Dutch-Belgian,Eastern_European,Ethiopian,Family,Fast_Food,Fine_Dining,French,,Game,German,Greek,Hot_Dogs,			International,Italian,Japanese,Juice,Korean,Latin_American,Mediterranean,Mexican,Mongolian,Organic-Healthy,Persian,			Pizzeria,Polish,Regional,Seafood,Soup,Southern,Southwestern,Spanish,Steaks,Sushi,Thai,Turkish,Vegetarian,Vietnamese]
+Rcuisine: Nominal, 59 [Afghan,African,American,Armenian,Asian,Bagels,Bakery,Bar,Bar_Pub_Brewery,Barbecue,Brazilian,Breakfast-Brunch,Burgers,Cafe-Coffee_Shop,			Cafeteria,California,Caribbean,Chinese,Contemporary,Continental-European,Deli-Sandwiches,Dessert-Ice_Cream,Diner,Dutch-Belgian,Eastern_European,Ethiopian,Family,Fast_Food,Fine_Dining,French,,Game,German,Greek,Hot_Dogs,			International,Italian,Japanese,Juice,Korean,Latin_American,Mediterranean,Mexican,Mongolian,Organic-Healthy,Persian,Pizzeria,Polish,Regional,Seafood,Soup,Southern,Southwestern,Spanish,Steaks,Sushi,Thai,Turkish,Vegetarian,Vietnamese]
 %---
 3 chefmozhours4.csv
 Instances: 2339
