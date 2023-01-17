@@ -16,8 +16,6 @@ if __name__ == '__main__':
     load_to_dwh.load_data(
         'results\\restaurants_cuisine.json', "restaurant_cuisine")
     load_to_dwh.load_data(
-        'results\\restaurants_parking.json', "restaurant_parking")
-    load_to_dwh.load_data(
         'results\\restaurants_payment.json', "restaurant_payment")
     load_to_dwh.load_data(
         'results\\restaurants_work_hours.json', "restaurant_hours")

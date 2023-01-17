@@ -6,7 +6,6 @@ from database import Base
 class User(Base):
     __tablename__ = 'users'
     userID = Column(String, primary_key=True)
-    smoker = Column(Boolean)
     drink_level = Column(String)
     dress_preference = Column(String)
     ambience = Column(String)
