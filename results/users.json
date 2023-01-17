@@ -18,9 +18,7 @@
     "color": "black",
     "weight": 69.0,
     "budget": "medium",
-    "height": 1.77,
-    "Rcuisine": ["American"],
-    "Upayment": ["cash"]
+    "height": 1.77
   },
   {
     "userID": "U1002",
@@ -41,9 +39,7 @@
     "color": "red",
     "weight": 40.0,
     "budget": "low",
-    "height": 1.87,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.87
   },
   {
     "userID": "U1003",
@@ -64,9 +60,7 @@
     "color": "blue",
     "weight": 60.0,
     "budget": "low",
-    "height": 1.69,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.69
   },
   {
     "userID": "U1004",
@@ -87,19 +81,7 @@
     "color": "green",
     "weight": 44.0,
     "budget": "medium",
-    "height": 1.53,
-    "Rcuisine": [
-      "Mexican",
-      "Bakery",
-      "Bagels",
-      "Contemporary",
-      "Breakfast-Brunch",
-      "Cafeteria",
-      "Japanese",
-      "Cafe-Coffee_Shop",
-      "Continental-European"
-    ],
-    "Upayment": ["bank_debit_cards", "cash"]
+    "height": 1.53
   },
   {
     "userID": "U1005",
@@ -120,9 +102,7 @@
     "color": "black",
     "weight": 65.0,
     "budget": "medium",
-    "height": 1.69,
-    "Rcuisine": ["American"],
-    "Upayment": ["cash"]
+    "height": 1.69
   },
   {
     "userID": "U1006",
@@ -143,9 +123,7 @@
     "color": "blue",
     "weight": 75.0,
     "budget": "medium",
-    "height": 1.8,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.8
   },
   {
     "userID": "U1007",
@@ -166,9 +144,7 @@
     "color": "purple",
     "weight": 60.0,
     "budget": "low",
-    "height": 1.59,
-    "Rcuisine": ["Family"],
-    "Upayment": ["cash"]
+    "height": 1.59
   },
   {
     "userID": "U1008",
@@ -189,20 +165,7 @@
     "color": "green",
     "weight": 68.0,
     "budget": "low",
-    "height": 1.72,
-    "Rcuisine": [
-      "Mexican",
-      "Korean",
-      "Juice",
-      "Hawaiian",
-      "Hot_Dogs",
-      "Cafeteria",
-      "Cafe-Coffee_Shop",
-      "Italian",
-      "American",
-      "Latin_American"
-    ],
-    "Upayment": ["cash"]
+    "height": 1.72
   },
   {
     "userID": "U1009",
@@ -223,17 +186,7 @@
     "color": "green",
     "weight": 75.0,
     "budget": "medium",
-    "height": 1.78,
-    "Rcuisine": [
-      "Mexican",
-      "Family",
-      "Fast_Food",
-      "Diner",
-      "Deli-Sandwiches",
-      "Cafeteria",
-      "Cafe-Coffee_Shop"
-    ],
-    "Upayment": ["cash"]
+    "height": 1.78
   },
   {
     "userID": "U1010",
@@ -254,9 +207,7 @@
     "color": "green",
     "weight": 40.0,
     "budget": "medium",
-    "height": 1.67,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.67
   },
   {
     "userID": "U1011",
@@ -277,9 +228,7 @@
     "color": "purple",
     "weight": 68.0,
     "budget": "medium",
-    "height": 1.78,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.78
   },
   {
     "userID": "U1012",
@@ -300,9 +249,7 @@
     "color": "red",
     "weight": 98.0,
     "budget": "medium",
-    "height": 1.84,
-    "Rcuisine": ["Latin_American"],
-    "Upayment": ["bank_debit_cards", "cash"]
+    "height": 1.84
   },
   {
     "userID": "U1013",
@@ -323,9 +270,7 @@
     "color": "blue",
     "weight": 80.0,
     "budget": "medium",
-    "height": 1.75,
-    "Rcuisine": ["Japanese"],
-    "Upayment": ["MasterCard-Eurocard", "cash"]
+    "height": 1.75
   },
   {
     "userID": "U1014",
@@ -346,9 +291,7 @@
     "color": "blue",
     "weight": 53.0,
     "budget": "medium",
-    "height": 1.69,
-    "Rcuisine": ["Fast_Food", "Japanese"],
-    "Upayment": ["cash"]
+    "height": 1.69
   },
   {
     "userID": "U1015",
@@ -369,9 +312,7 @@
     "color": "black",
     "weight": 87.0,
     "budget": "medium",
-    "height": 1.67,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.67
   },
   {
     "userID": "U1016",
@@ -392,24 +333,7 @@
     "color": "green",
     "weight": 70.0,
     "budget": "medium",
-    "height": 1.67,
-    "Rcuisine": [
-      "Moroccan",
-      "Polish",
-      "Indian-Pakistani",
-      "Eastern_European",
-      "Lebanese",
-      "Contemporary",
-      "Portuguese",
-      "Regional",
-      "Barbecue",
-      "Japanese",
-      "Cafe-Coffee_Shop",
-      "American",
-      "Fusion",
-      "Polynesian"
-    ],
-    "Upayment": ["cash"]
+    "height": 1.67
   },
   {
     "userID": "U1017",
@@ -430,9 +354,7 @@
     "color": "orange",
     "weight": 79.0,
     "budget": "medium",
-    "height": 1.79,
-    "Rcuisine": ["Chinese"],
-    "Upayment": ["VISA", "cash"]
+    "height": 1.79
   },
   {
     "userID": "U1018",
@@ -453,9 +375,7 @@
     "color": "blue",
     "weight": 65.0,
     "budget": "low",
-    "height": 1.83,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.83
   },
   {
     "userID": "U1019",
@@ -476,9 +396,7 @@
     "color": "purple",
     "weight": 59.0,
     "budget": "medium",
-    "height": 1.6,
-    "Rcuisine": ["Family"],
-    "Upayment": ["cash"]
+    "height": 1.6
   },
   {
     "userID": "U1020",
@@ -499,9 +417,7 @@
     "color": "blue",
     "weight": 40.0,
     "budget": "medium",
-    "height": 1.68,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["bank_debit_cards", "cash"]
+    "height": 1.68
   },
   {
     "userID": "U1021",
@@ -522,9 +438,7 @@
     "color": "purple",
     "weight": 108.0,
     "budget": "medium",
-    "height": 1.62,
-    "Rcuisine": ["Regional", "Pizzeria", "Burgers", "Chinese"],
-    "Upayment": ["cash"]
+    "height": 1.62
   },
   {
     "userID": "U1022",
@@ -545,9 +459,7 @@
     "color": "purple",
     "weight": 46.0,
     "budget": "medium",
-    "height": 1.54,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.54
   },
   {
     "userID": "U1023",
@@ -568,9 +480,7 @@
     "color": "blue",
     "weight": 103.0,
     "budget": "low",
-    "height": 1.79,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.79
   },
   {
     "userID": "U1026",
@@ -591,9 +501,7 @@
     "color": "red",
     "weight": 49.0,
     "budget": "medium",
-    "height": 1.55,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["bank_debit_cards", "cash"]
+    "height": 1.55
   },
   {
     "userID": "U1027",
@@ -614,9 +522,7 @@
     "color": "purple",
     "weight": 60.0,
     "budget": "low",
-    "height": 1.65,
-    "Rcuisine": ["Family"],
-    "Upayment": ["cash"]
+    "height": 1.65
   },
   {
     "userID": "U1028",
@@ -637,9 +543,7 @@
     "color": "blue",
     "weight": 77.0,
     "budget": "medium",
-    "height": 1.63,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.63
   },
   {
     "userID": "U1029",
@@ -660,9 +564,7 @@
     "color": "white",
     "weight": 58.0,
     "budget": "low",
-    "height": 1.6,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.6
   },
   {
     "userID": "U1030",
@@ -683,9 +585,7 @@
     "color": "black",
     "weight": 64.0,
     "budget": "medium",
-    "height": 1.75,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.75
   },
   {
     "userID": "U1031",
@@ -706,9 +606,7 @@
     "color": "white",
     "weight": 40.0,
     "budget": "medium",
-    "height": 1.6,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["American_Express", "cash"]
+    "height": 1.6
   },
   {
     "userID": "U1032",
@@ -729,9 +627,7 @@
     "color": "blue",
     "weight": 40.0,
     "budget": "medium",
-    "height": 1.75,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.75
   },
   {
     "userID": "U1033",
@@ -752,9 +648,7 @@
     "color": "yellow",
     "weight": 54.0,
     "budget": "low",
-    "height": 1.6,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.6
   },
   {
     "userID": "U1034",
@@ -775,9 +669,7 @@
     "color": "yellow",
     "weight": 50.0,
     "budget": "medium",
-    "height": 1.58,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.58
   },
   {
     "userID": "U1035",
@@ -798,9 +690,7 @@
     "color": "red",
     "weight": 69.0,
     "budget": "medium",
-    "height": 1.75,
-    "Rcuisine": ["Family"],
-    "Upayment": ["VISA", "cash"]
+    "height": 1.75
   },
   {
     "userID": "U1036",
@@ -821,9 +711,7 @@
     "color": "blue",
     "weight": 76.0,
     "budget": "medium",
-    "height": 1.7,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.7
   },
   {
     "userID": "U1037",
@@ -844,9 +732,7 @@
     "color": "blue",
     "weight": 52.0,
     "budget": "low",
-    "height": 1.5,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.5
   },
   {
     "userID": "U1038",
@@ -867,9 +753,7 @@
     "color": "blue",
     "weight": 97.0,
     "budget": "low",
-    "height": 1.83,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.83
   },
   {
     "userID": "U1039",
@@ -890,9 +774,7 @@
     "color": "yellow",
     "weight": 83.0,
     "budget": "medium",
-    "height": 1.73,
-    "Rcuisine": ["Regional"],
-    "Upayment": ["cash"]
+    "height": 1.73
   },
   {
     "userID": "U1040",
@@ -913,9 +795,7 @@
     "color": "blue",
     "weight": 73.0,
     "budget": "medium",
-    "height": 1.64,
-    "Rcuisine": ["Pizzeria"],
-    "Upayment": ["cash"]
+    "height": 1.64
   },
   {
     "userID": "U1041",
@@ -936,9 +816,7 @@
     "color": "white",
     "weight": 40.0,
     "budget": "medium",
-    "height": 1.62,
-    "Rcuisine": ["Contemporary"],
-    "Upayment": ["VISA", "bank_debit_cards", "American_Express", "cash"]
+    "height": 1.62
   },
   {
     "userID": "U1042",
@@ -959,9 +837,7 @@
     "color": "yellow",
     "weight": 40.0,
     "budget": "high",
-    "height": 1.4,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["bank_debit_cards"]
+    "height": 1.4
   },
   {
     "userID": "U1043",
@@ -982,9 +858,7 @@
     "color": "white",
     "weight": 60.0,
     "budget": "medium",
-    "height": 1.64,
-    "Rcuisine": ["Latin_American"],
-    "Upayment": ["cash"]
+    "height": 1.64
   },
   {
     "userID": "U1044",
@@ -1005,9 +879,7 @@
     "color": "orange",
     "weight": 85.0,
     "budget": "medium",
-    "height": 1.73,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["MasterCard-Eurocard", "VISA", "bank_debit_cards", "cash"]
+    "height": 1.73
   },
   {
     "userID": "U1045",
@@ -1028,9 +900,7 @@
     "color": "orange",
     "weight": 68.0,
     "budget": "high",
-    "height": 1.6,
-    "Rcuisine": ["Mongolian", "Middle_Eastern", "Moroccan", "Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.6
   },
   {
     "userID": "U1046",
@@ -1051,9 +921,7 @@
     "color": "black",
     "weight": 82.0,
     "budget": "medium",
-    "height": 1.84,
-    "Rcuisine": ["Bar"],
-    "Upayment": ["cash"]
+    "height": 1.84
   },
   {
     "userID": "U1047",
@@ -1074,9 +942,7 @@
     "color": "purple",
     "weight": 60.0,
     "budget": "medium",
-    "height": 1.63,
-    "Rcuisine": ["American"],
-    "Upayment": ["cash"]
+    "height": 1.63
   },
   {
     "userID": "U1048",
@@ -1097,9 +963,7 @@
     "color": "green",
     "weight": 65.0,
     "budget": "medium",
-    "height": 1.7,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.7
   },
   {
     "userID": "U1049",
@@ -1120,9 +984,7 @@
     "color": "blue",
     "weight": 55.0,
     "budget": "?",
-    "height": 1.6,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.6
   },
   {
     "userID": "U1050",
@@ -1143,9 +1005,7 @@
     "color": "green",
     "weight": 73.0,
     "budget": "medium",
-    "height": 1.71,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.71
   },
   {
     "userID": "U1051",
@@ -1166,9 +1026,7 @@
     "color": "blue",
     "weight": 74.0,
     "budget": "medium",
-    "height": 1.76,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["VISA", "cash"]
+    "height": 1.76
   },
   {
     "userID": "U1052",
@@ -1189,9 +1047,7 @@
     "color": "blue",
     "weight": 85.0,
     "budget": "low",
-    "height": 1.8,
-    "Rcuisine": ["Bakery"],
-    "Upayment": ["cash"]
+    "height": 1.8
   },
   {
     "userID": "U1053",
@@ -1212,9 +1068,7 @@
     "color": "red",
     "weight": 66.0,
     "budget": "low",
-    "height": 1.72,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.72
   },
   {
     "userID": "U1054",
@@ -1235,9 +1089,7 @@
     "color": "blue",
     "weight": 59.0,
     "budget": "medium",
-    "height": 1.7,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.7
   },
   {
     "userID": "U1055",
@@ -1258,9 +1110,7 @@
     "color": "blue",
     "weight": 70.0,
     "budget": "medium",
-    "height": 1.66,
-    "Rcuisine": ["Breakfast-Brunch"],
-    "Upayment": ["cash"]
+    "height": 1.66
   },
   {
     "userID": "U1056",
@@ -1281,9 +1131,7 @@
     "color": "yellow",
     "weight": 61.0,
     "budget": "medium",
-    "height": 1.62,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.62
   },
   {
     "userID": "U1057",
@@ -1304,9 +1152,7 @@
     "color": "yellow",
     "weight": 69.0,
     "budget": "medium",
-    "height": 1.83,
-    "Rcuisine": ["American"],
-    "Upayment": ["VISA", "cash"]
+    "height": 1.83
   },
   {
     "userID": "U1058",
@@ -1327,9 +1173,7 @@
     "color": "red",
     "weight": 74.0,
     "budget": "low",
-    "height": 1.78,
-    "Rcuisine": ["Cuban"],
-    "Upayment": ["cash"]
+    "height": 1.78
   },
   {
     "userID": "U1059",
@@ -1350,9 +1194,7 @@
     "color": "blue",
     "weight": 57.0,
     "budget": "medium",
-    "height": 1.69,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.69
   },
   {
     "userID": "U1060",
@@ -1373,23 +1215,7 @@
     "color": "blue",
     "weight": 82.0,
     "budget": "medium",
-    "height": 1.84,
-    "Rcuisine": [
-      "Spanish",
-      "Mexican",
-      "Fast_Food",
-      "Burgers",
-      "Soup",
-      "Juice",
-      "Hot_Dogs",
-      "Cafeteria",
-      "Cafe-Coffee_Shop",
-      "Italian",
-      "American",
-      "Tex-Mex",
-      "Pizzeria"
-    ],
-    "Upayment": ["cash"]
+    "height": 1.84
   },
   {
     "userID": "U1061",
@@ -1410,9 +1236,7 @@
     "color": "blue",
     "weight": 40.0,
     "budget": "medium",
-    "height": 1.76,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["bank_debit_cards", "cash"]
+    "height": 1.76
   },
   {
     "userID": "U1062",
@@ -1433,9 +1257,7 @@
     "color": "yellow",
     "weight": 88.0,
     "budget": "medium",
-    "height": 1.68,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["VISA", "cash"]
+    "height": 1.68
   },
   {
     "userID": "U1063",
@@ -1456,9 +1278,7 @@
     "color": "red",
     "weight": 80.0,
     "budget": "medium",
-    "height": 1.78,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.78
   },
   {
     "userID": "U1064",
@@ -1479,9 +1299,7 @@
     "color": "blue",
     "weight": 94.0,
     "budget": "medium",
-    "height": 1.77,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.77
   },
   {
     "userID": "U1065",
@@ -1502,9 +1320,7 @@
     "color": "green",
     "weight": 55.0,
     "budget": "medium",
-    "height": 1.72,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.72
   },
   {
     "userID": "U1066",
@@ -1525,9 +1341,7 @@
     "color": "green",
     "weight": 45.0,
     "budget": "low",
-    "height": 1.45,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["bank_debit_cards", "cash"]
+    "height": 1.45
   },
   {
     "userID": "U1067",
@@ -1548,9 +1362,7 @@
     "color": "green",
     "weight": 92.0,
     "budget": "medium",
-    "height": 1.73,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.73
   },
   {
     "userID": "U1068",
@@ -1571,9 +1383,7 @@
     "color": "blue",
     "weight": 72.0,
     "budget": "low",
-    "height": 1.57,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.57
   },
   {
     "userID": "U1069",
@@ -1594,9 +1404,7 @@
     "color": "black",
     "weight": 60.0,
     "budget": "medium",
-    "height": 1.56,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["MasterCard-Eurocard", "cash"]
+    "height": 1.56
   },
   {
     "userID": "U1070",
@@ -1617,9 +1425,7 @@
     "color": "green",
     "weight": 47.0,
     "budget": "low",
-    "height": 1.6,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.6
   },
   {
     "userID": "U1071",
@@ -1640,9 +1446,7 @@
     "color": "blue",
     "weight": 40.0,
     "budget": "high",
-    "height": 1.73,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.73
   },
   {
     "userID": "U1072",
@@ -1663,9 +1467,7 @@
     "color": "red",
     "weight": 50.0,
     "budget": "medium",
-    "height": 1.54,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["bank_debit_cards", "cash"]
+    "height": 1.54
   },
   {
     "userID": "U1073",
@@ -1686,9 +1488,7 @@
     "color": "yellow",
     "weight": 118.0,
     "budget": "medium",
-    "height": 1.79,
-    "Rcuisine": ["American"],
-    "Upayment": ["cash"]
+    "height": 1.79
   },
   {
     "userID": "U1074",
@@ -1709,9 +1509,7 @@
     "color": "black",
     "weight": 68.0,
     "budget": "medium",
-    "height": 1.7,
-    "Rcuisine": ["Sushi"],
-    "Upayment": ["bank_debit_cards", "cash"]
+    "height": 1.7
   },
   {
     "userID": "U1075",
@@ -1732,9 +1530,7 @@
     "color": "white",
     "weight": 68.0,
     "budget": "medium",
-    "height": 1.6,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.6
   },
   {
     "userID": "U1076",
@@ -1755,9 +1551,7 @@
     "color": "blue",
     "weight": 65.0,
     "budget": "medium",
-    "height": 1.71,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["VISA", "bank_debit_cards", "cash"]
+    "height": 1.71
   },
   {
     "userID": "U1077",
@@ -1778,9 +1572,7 @@
     "color": "blue",
     "weight": 65.0,
     "budget": "medium",
-    "height": 1.71,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["VISA", "bank_debit_cards", "cash"]
+    "height": 1.71
   },
   {
     "userID": "U1078",
@@ -1801,9 +1593,7 @@
     "color": "blue",
     "weight": 69.0,
     "budget": "medium",
-    "height": 1.69,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["VISA", "bank_debit_cards", "cash"]
+    "height": 1.69
   },
   {
     "userID": "U1079",
@@ -1824,9 +1614,7 @@
     "color": "black",
     "weight": 53.0,
     "budget": "medium",
-    "height": 1.55,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.55
   },
   {
     "userID": "U1080",
@@ -1847,9 +1635,7 @@
     "color": "white",
     "weight": 80.0,
     "budget": "low",
-    "height": 1.82,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.82
   },
   {
     "userID": "U1081",
@@ -1870,9 +1656,7 @@
     "color": "green",
     "weight": 52.0,
     "budget": "low",
-    "height": 1.54,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.54
   },
   {
     "userID": "U1082",
@@ -1893,9 +1677,7 @@
     "color": "black",
     "weight": 63.0,
     "budget": "medium",
-    "height": 1.69,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.69
   },
   {
     "userID": "U1083",
@@ -1916,9 +1698,7 @@
     "color": "yellow",
     "weight": 40.0,
     "budget": "?",
-    "height": 1.6,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.6
   },
   {
     "userID": "U1084",
@@ -1939,9 +1719,7 @@
     "color": "red",
     "weight": 65.0,
     "budget": "medium",
-    "height": 1.6,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.6
   },
   {
     "userID": "U1085",
@@ -1962,9 +1740,7 @@
     "color": "black",
     "weight": 84.0,
     "budget": "?",
-    "height": 1.7,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.7
   },
   {
     "userID": "U1086",
@@ -1985,9 +1761,7 @@
     "color": "red",
     "weight": 49.0,
     "budget": "medium",
-    "height": 1.59,
-    "Rcuisine": ["Italian"],
-    "Upayment": ["VISA", "bank_debit_cards", "cash"]
+    "height": 1.59
   },
   {
     "userID": "U1087",
@@ -2008,9 +1782,7 @@
     "color": "black",
     "weight": 53.0,
     "budget": "medium",
-    "height": 1.55,
-    "Rcuisine": ["Chinese"],
-    "Upayment": ["cash"]
+    "height": 1.55
   },
   {
     "userID": "U1089",
@@ -2031,9 +1803,7 @@
     "color": "white",
     "weight": 54.0,
     "budget": "low",
-    "height": 1.6,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.6
   },
   {
     "userID": "U1090",
@@ -2054,9 +1824,7 @@
     "color": "blue",
     "weight": 50.0,
     "budget": "medium",
-    "height": 1.54,
-    "Rcuisine": ["Tex-Mex"],
-    "Upayment": ["cash"]
+    "height": 1.54
   },
   {
     "userID": "U1091",
@@ -2077,9 +1845,7 @@
     "color": "red",
     "weight": 40.0,
     "budget": "low",
-    "height": 1.7,
-    "Rcuisine": ["American", "Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.7
   },
   {
     "userID": "U1092",
@@ -2100,9 +1866,7 @@
     "color": "red",
     "weight": 70.0,
     "budget": "medium",
-    "height": 1.69,
-    "Rcuisine": ["Game"],
-    "Upayment": ["cash"]
+    "height": 1.69
   },
   {
     "userID": "U1093",
@@ -2123,9 +1887,7 @@
     "color": "blue",
     "weight": 80.0,
     "budget": "medium",
-    "height": 1.67,
-    "Rcuisine": ["Japanese"],
-    "Upayment": ["VISA", "American_Express"]
+    "height": 1.67
   },
   {
     "userID": "U1094",
@@ -2146,9 +1908,7 @@
     "color": "green",
     "weight": 59.0,
     "budget": "medium",
-    "height": 1.71,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.71
   },
   {
     "userID": "U1095",
@@ -2169,9 +1929,7 @@
     "color": "blue",
     "weight": 65.0,
     "budget": "medium",
-    "height": 1.65,
-    "Rcuisine": ["Italian"],
-    "Upayment": ["cash"]
+    "height": 1.65
   },
   {
     "userID": "U1096",
@@ -2192,9 +1950,7 @@
     "color": "black",
     "weight": 40.0,
     "budget": "medium",
-    "height": 1.2,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.2
   },
   {
     "userID": "U1097",
@@ -2215,9 +1971,7 @@
     "color": "black",
     "weight": 58.0,
     "budget": "medium",
-    "height": 1.64,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.64
   },
   {
     "userID": "U1098",
@@ -2238,9 +1992,7 @@
     "color": "green",
     "weight": 68.0,
     "budget": "medium",
-    "height": 1.76,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.76
   },
   {
     "userID": "U1099",
@@ -2261,9 +2013,7 @@
     "color": "purple",
     "weight": 70.0,
     "budget": "high",
-    "height": 2.0,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["VISA", "cash"]
+    "height": 2.0
   },
   {
     "userID": "U1100",
@@ -2284,9 +2034,7 @@
     "color": "black",
     "weight": 40.0,
     "budget": "medium",
-    "height": 1.65,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.65
   },
   {
     "userID": "U1101",
@@ -2307,25 +2055,7 @@
     "color": "white",
     "weight": 50.0,
     "budget": "low",
-    "height": 1.69,
-    "Rcuisine": [
-      "Afghan",
-      "Doughnuts",
-      "Mexican",
-      "Family",
-      "Burgers",
-      "Diner",
-      "Contemporary",
-      "Bar",
-      "Hot_Dogs",
-      "Cafeteria",
-      "Cafe-Coffee_Shop",
-      "Italian",
-      "Australian",
-      "Latin_American",
-      "Chinese"
-    ],
-    "Upayment": ["cash"]
+    "height": 1.69
   },
   {
     "userID": "U1102",
@@ -2346,9 +2076,7 @@
     "color": "black",
     "weight": 90.0,
     "budget": "low",
-    "height": 1.78,
-    "Rcuisine": ["Pizzeria"],
-    "Upayment": ["cash"]
+    "height": 1.78
   },
   {
     "userID": "U1103",
@@ -2369,9 +2097,7 @@
     "color": "green",
     "weight": 120.0,
     "budget": "medium",
-    "height": 1.9,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["bank_debit_cards", "cash"]
+    "height": 1.9
   },
   {
     "userID": "U1104",
@@ -2392,9 +2118,7 @@
     "color": "blue",
     "weight": 75.0,
     "budget": "medium",
-    "height": 1.71,
-    "Rcuisine": ["Italian"],
-    "Upayment": ["VISA", "cash"]
+    "height": 1.71
   },
   {
     "userID": "U1105",
@@ -2415,9 +2139,7 @@
     "color": "green",
     "weight": 40.0,
     "budget": "medium",
-    "height": 1.74,
-    "Rcuisine": ["Cafeteria"],
-    "Upayment": ["cash"]
+    "height": 1.74
   },
   {
     "userID": "U1106",
@@ -2438,9 +2160,7 @@
     "color": "blue",
     "weight": 65.0,
     "budget": "medium",
-    "height": 1.71,
-    "Rcuisine": ["Barbecue"],
-    "Upayment": ["bank_debit_cards", "cash"]
+    "height": 1.71
   },
   {
     "userID": "U1107",
@@ -2461,9 +2181,7 @@
     "color": "blue",
     "weight": 87.0,
     "budget": "high",
-    "height": 1.79,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["bank_debit_cards", "cash"]
+    "height": 1.79
   },
   {
     "userID": "U1108",
@@ -2484,28 +2202,7 @@
     "color": "blue",
     "weight": 76.0,
     "budget": "medium",
-    "height": 1.81,
-    "Rcuisine": [
-      "Mexican",
-      "Family",
-      "Fast_Food",
-      "Seafood",
-      "Burgers",
-      "Deli-Sandwiches",
-      "Sushi",
-      "Pizzeria",
-      "Hot_Dogs",
-      "Dessert-Ice_Cream",
-      "Cafeteria",
-      "Cafe-Coffee_Shop",
-      "Japanese",
-      "Game",
-      "American",
-      "Asian",
-      "Latin_American",
-      "Chinese"
-    ],
-    "Upayment": ["MasterCard-Eurocard", "VISA", "cash"]
+    "height": 1.81
   },
   {
     "userID": "U1109",
@@ -2526,9 +2223,7 @@
     "color": "blue",
     "weight": 57.0,
     "budget": "low",
-    "height": 1.72,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.72
   },
   {
     "userID": "U1110",
@@ -2549,9 +2244,7 @@
     "color": "red",
     "weight": 85.0,
     "budget": "medium",
-    "height": 1.75,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.75
   },
   {
     "userID": "U1111",
@@ -2572,9 +2265,7 @@
     "color": "white",
     "weight": 69.0,
     "budget": "medium",
-    "height": 1.69,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.69
   },
   {
     "userID": "U1112",
@@ -2595,9 +2286,7 @@
     "color": "white",
     "weight": 69.0,
     "budget": "medium",
-    "height": 1.69,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.69
   },
   {
     "userID": "U1113",
@@ -2618,9 +2307,7 @@
     "color": "blue",
     "weight": 75.0,
     "budget": "medium",
-    "height": 1.73,
-    "Rcuisine": ["Burgers"],
-    "Upayment": ["VISA", "cash"]
+    "height": 1.73
   },
   {
     "userID": "U1114",
@@ -2641,9 +2328,7 @@
     "color": "blue",
     "weight": 58.0,
     "budget": "medium",
-    "height": 1.68,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.68
   },
   {
     "userID": "U1115",
@@ -2664,9 +2349,7 @@
     "color": "green",
     "weight": 76.0,
     "budget": "low",
-    "height": 1.76,
-    "Rcuisine": ["Regional"],
-    "Upayment": ["cash"]
+    "height": 1.76
   },
   {
     "userID": "U1116",
@@ -2687,9 +2370,7 @@
     "color": "blue",
     "weight": 40.0,
     "budget": "medium",
-    "height": 1.71,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["VISA", "bank_debit_cards", "cash"]
+    "height": 1.71
   },
   {
     "userID": "U1117",
@@ -2710,9 +2391,7 @@
     "color": "blue",
     "weight": 58.0,
     "budget": "medium",
-    "height": 1.6,
-    "Rcuisine": ["Turkish"],
-    "Upayment": ["bank_debit_cards", "cash"]
+    "height": 1.6
   },
   {
     "userID": "U1118",
@@ -2733,9 +2412,7 @@
     "color": "black",
     "weight": 60.0,
     "budget": "medium",
-    "height": 1.68,
-    "Rcuisine": ["Pizzeria"],
-    "Upayment": ["cash"]
+    "height": 1.68
   },
   {
     "userID": "U1119",
@@ -2756,9 +2433,7 @@
     "color": "blue",
     "weight": 68.0,
     "budget": "medium",
-    "height": 1.68,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.68
   },
   {
     "userID": "U1120",
@@ -2779,9 +2454,7 @@
     "color": "green",
     "weight": 47.0,
     "budget": "low",
-    "height": 1.57,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.57
   },
   {
     "userID": "U1121",
@@ -2802,9 +2475,7 @@
     "color": "black",
     "weight": 90.0,
     "budget": "medium",
-    "height": 1.6,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["bank_debit_cards", "cash"]
+    "height": 1.6
   },
   {
     "userID": "U1123",
@@ -2825,9 +2496,7 @@
     "color": "green",
     "weight": 110.0,
     "budget": "medium",
-    "height": 1.75,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.75
   },
   {
     "userID": "U1124",
@@ -2848,9 +2517,7 @@
     "color": "blue",
     "weight": 51.0,
     "budget": "low",
-    "height": 1.2,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.2
   },
   {
     "userID": "U1125",
@@ -2871,9 +2538,7 @@
     "color": "white",
     "weight": 57.0,
     "budget": "low",
-    "height": 1.67,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.67
   },
   {
     "userID": "U1126",
@@ -2894,9 +2559,7 @@
     "color": "purple",
     "weight": 65.0,
     "budget": "low",
-    "height": 1.63,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.63
   },
   {
     "userID": "U1127",
@@ -2917,9 +2580,7 @@
     "color": "black",
     "weight": 65.0,
     "budget": "low",
-    "height": 1.76,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.76
   },
   {
     "userID": "U1128",
@@ -2940,9 +2601,7 @@
     "color": "red",
     "weight": 66.0,
     "budget": "low",
-    "height": 1.72,
-    "Rcuisine": ["Hot_Dogs", "Pizzeria", "Cafeteria", "Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.72
   },
   {
     "userID": "U1129",
@@ -2963,9 +2622,7 @@
     "color": "purple",
     "weight": 69.0,
     "budget": "low",
-    "height": 1.69,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.69
   },
   {
     "userID": "U1131",
@@ -2986,9 +2643,7 @@
     "color": "black",
     "weight": 90.0,
     "budget": "medium",
-    "height": 1.8,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.8
   },
   {
     "userID": "U1132",
@@ -3009,9 +2664,7 @@
     "color": "blue",
     "weight": 55.0,
     "budget": "?",
-    "height": 1.6,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.6
   },
   {
     "userID": "U1133",
@@ -3032,9 +2685,7 @@
     "color": "orange",
     "weight": 60.0,
     "budget": "medium",
-    "height": 1.57,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["bank_debit_cards", "cash"]
+    "height": 1.57
   },
   {
     "userID": "U1134",
@@ -3055,9 +2706,7 @@
     "color": "black",
     "weight": 52.0,
     "budget": "medium",
-    "height": 1.65,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.65
   },
   {
     "userID": "U1135",
@@ -3078,113 +2727,7 @@
     "color": "purple",
     "weight": 66.0,
     "budget": "low",
-    "height": 1.54,
-    "Rcuisine": [
-      "Tea_House",
-      "Seafood",
-      "Breakfast-Brunch",
-      "Vegetarian",
-      "Thai",
-      "Cafe-Coffee_Shop",
-      "Cuban",
-      "Middle_Eastern",
-      "Basque",
-      "Malaysian",
-      "Burmese",
-      "Contemporary",
-      "Vietnamese",
-      "Continental-European",
-      "Southern",
-      "Southwestern",
-      "Southeast_Asian",
-      "Hawaiian",
-      "Barbecue",
-      "Fusion",
-      "Afghan",
-      "Kosher",
-      "Indonesian",
-      "Tapas",
-      "Korean",
-      "Juice",
-      "Brazilian",
-      "Indian-Pakistani",
-      "Lebanese",
-      "North_African",
-      "Armenian",
-      "Polish",
-      "Latin_American",
-      "Canadian",
-      "Mediterranean",
-      "Greek",
-      "Cafeteria",
-      "Caribbean",
-      "Indigenous",
-      "Chinese",
-      "Fast_Food",
-      "International",
-      "Bar",
-      "Jamaican",
-      "Game",
-      "Eclectic",
-      "Pizzeria",
-      "German",
-      "Cambodian",
-      "Scandinavian",
-      "Japanese",
-      "Hungarian",
-      "British",
-      "California",
-      "Diner",
-      "Bagels",
-      "Cajun-Creole",
-      "Eastern_European",
-      "African",
-      "Tunisian",
-      "American",
-      "Polynesian",
-      "Spanish",
-      "Fine_Dining",
-      "Burgers",
-      "Pacific_Northwest",
-      "Austrian",
-      "Russian-Ukrainian",
-      "Tex-Mex",
-      "Dessert-Ice_Cream",
-      "Turkish",
-      "Organic-Healthy",
-      "Dutch-Belgian",
-      "Mexican",
-      "Chilean",
-      "Regional",
-      "Tibetan",
-      "Mongolian",
-      "Romanian",
-      "Asian",
-      "Moroccan",
-      "Bakery",
-      "Hot_Dogs",
-      "Irish",
-      "Bar_Pub_Brewery",
-      "Filipino",
-      "Persian",
-      "Pacific_Rim",
-      "Soup",
-      "Portuguese",
-      "Israeli",
-      "Ethiopian",
-      "Peruvian",
-      "Doughnuts",
-      "Swiss",
-      "French",
-      "Family",
-      "Steaks",
-      "Deli-Sandwiches",
-      "Sushi",
-      "Italian",
-      "Australian",
-      "Dim_Sum"
-    ],
-    "Upayment": ["cash"]
+    "height": 1.54
   },
   {
     "userID": "U1136",
@@ -3205,9 +2748,7 @@
     "color": "black",
     "weight": 50.0,
     "budget": "low",
-    "height": 1.6,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.6
   },
   {
     "userID": "U1137",
@@ -3228,9 +2769,7 @@
     "color": "blue",
     "weight": 72.0,
     "budget": "low",
-    "height": 1.78,
-    "Rcuisine": ["Mexican"],
-    "Upayment": ["cash"]
+    "height": 1.78
   },
   {
     "userID": "U1138",
@@ -3251,8 +2790,6 @@
     "color": "blue",
     "weight": 54.0,
     "budget": "medium",
-    "height": 1.55,
-    "Rcuisine": ["Pizzeria"],
-    "Upayment": ["cash"]
+    "height": 1.55
   }
 ]
